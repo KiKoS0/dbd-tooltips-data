@@ -414,6 +414,11 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Pfad_der_Folter",
         "name": "Pfad der Folter"
     },
+    "Unforeseen": {
+        "desc": "Das Grauen kann vielerlei Gestalt annehmen und seinen Opfern vernichtende L\u00fcgen einfl\u00fcstern.<br/><br/>Wenn du einen Generator besch\u00e4digst, wird dein Terrorradius f\u00fcr <span style=\"color: #e8c252;\"><b>18</b></span>/<span style=\"color: #199b1e;\"><b>24</b></span>/<span style=\"color: #ac3ee3;\"><b>30</b></span>\u00a0Z\u00e4hler auf den Generator \u00fcbertragen. Au\u00dferdem wird die Gr\u00f6\u00dfe deines Terrorradius um <b><span style=\"color: #e8c252;\">32 Meter</span></b> erh\u00f6ht.<br/><br/>F\u00fcr die gesamte Dauer bist du <b>Unentdeckbar</b>.<br/><br/>Dieses Talent hat anschlie\u00dfend eine Abklingzeit von <b><span style=\"color: #d41c1c;\">30 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #877E71;\">Unentdeckbar verbirgt Aura, Terrorradius und roten Fleck des Killers.</span></i>\n</p><p><i><span style=\"color: #808080;\">\u201eEs k\u00f6nnte \u00fcberall sein. Mama, wenn du das liest: Es tut mir leid ...\u201c Letzter Tagebucheintrag, 12.07.1991</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Unerwartet",
+        "name": "Unerwartet"
+    },
     "Unnerving_Presence": {
         "desc": "Deine blo\u00dfe Anwesenheit fl\u00f6\u00dft bereits gro\u00dfe Angst ein. \u00dcberlebende innerhalb deines Terrorradius haben eine um <b><span style=\"color: #e8c252;\">10\u00a0%</span></b> erh\u00f6hte Chance, beim Reparieren oder Heilen einen F\u00e4higkeitscheck abzurufen. Die abgerufene Erfolgszone eines F\u00e4higkeitschecks ist um <span style=\"color: #e8c252;\"><b>40</b></span>/<span style=\"color: #199b1e;\"><b>50</b></span>/<span style=\"color: #ac3ee3;\"><b>60</b></span>\u00a0% verringert.\n<p><i><span style=\"color: #808080;\">\u201eSeine Anwesenheit bricht \u00fcber uns herein.\u201c</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Zerm%C3%BCrbende_Pr%C3%A4senz",
