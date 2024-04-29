@@ -1659,7 +1659,7 @@
                 "rarity": "uncommon"
             },
             "Scrapped_Tape": {
-                "description": "A compact cassette from <i>Project Awakening</i> containing mostly white noise.<br/>Opens The Doctor's mind to alternate treatment methods.\n<ul><li>Reshapes the <i>Area of Effect</i> of the <i>Shock Therapy Attack</i> from a cone into a hollow ring which is placed <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">8 metres</span></b> in front of you, and has an outer radius of <b><span class=\"luaClr clr clr6\" style=\"color: #ff8800;\">4.2 metres</span></b> and an inner radius of <b><span class=\"luaClr clr clr8\" style=\"color: #d41c1c;\">3 metres</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "A compact cassette from <i>Project Awakening</i> containing mostly white noise.<br/>Opens The Doctor's mind to alternate treatment methods.\n<ul><li>Reshapes the <i>Area of Effect</i> of the <i>Shock Therapy Attack</i> from a cone into a hollow ring which is placed <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">8 metres</span></b> in front of <b>The Doctor</b>.\n<ul><li>The ring has a radius of <b><span class=\"luaClr clr clr6\" style=\"color: #ff8800;\">4 metres</span></b> a thickness of <b><span class=\"luaClr clr clr8\" style=\"color: #d41c1c;\">1 metre</span></b>.</li></ul></li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/doctor/scrapped-tape_icon.png",
                 "img_alt": "Scrappedtape",
                 "img_path": "data/images/addons/doctor/scrapped-tape.png",
@@ -6354,7 +6354,7 @@
                 "rarity": "rare"
             },
             "Inferno_Wires": {
-                "description": "Burnt wires form the studio fire that killed four of the five <b>NO SPIN</b> members.<br/>Their deaths gave rise to The Trickster.\n<ul><li><b>Extends</b> the duration of <i><b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">Main Event</span></b></i> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+25\u00a0%</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "Burnt wires form the studio fire that killed four of the five <b>NO SPIN</b> members.<br/>Their deaths gave rise to The Trickster.\n<ul><li><b>Extends</b> the duration of <i><b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">Main Event</span></b></i> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+40\u00a0%</span></b>.</li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/trickster/inferno-wires_icon.png",
                 "img_alt": "Infernowires",
                 "img_path": "data/images/addons/trickster/inferno-wires.png",
@@ -6444,7 +6444,7 @@
                 "rarity": "rare"
             },
             "Tequila_Moonrock": {
-                "description": "A drink invented in a modest Changwon bar.<br/>Became a favourite of Ji-Woon's.\n<ul><li><b>Increases</b> the duration of <i><b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">Main Event</span></b></i> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+50\u00a0%</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "A drink invented in a modest Changwon bar.<br/>Became a favourite of Ji-Woon's.\n<ul><li><b>Increases</b> the duration of <i><b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">Main Event</span></b></i> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+60\u00a0%</span></b>.</li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/trickster/tequila-moonrock_icon.png",
                 "img_alt": "Tequilamoonrock",
                 "img_path": "data/images/addons/trickster/tequila-moonrock.png",
