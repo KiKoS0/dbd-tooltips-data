@@ -30,12 +30,12 @@
         "name": "Einsch\u00e4tzung"
     },
     "Autodidact": {
-        "desc": "Du beginnst die Runde mit einer <b><span style=\"color: #e8c252;\">-25%-igen</span></b> Fortschrittsstrafe, um \u00dcberlebende zu heilen. F\u00fcr jeden erfolgreich abgeschlossenen F\u00e4higkeitscheck beim Heilen erh\u00e4ltst du einen Z\u00e4hler, bis maximal <span style=\"color: #e8c252;\"><b>3</b></span>/<span style=\"color: #199b1e;\"><b>4</b></span>/<span style=\"color: #ac3ee3;\"><b>5</b></span>\u00a0Z\u00e4hler.<br/>Jeder Z\u00e4hler gew\u00e4hrt dir einen Fortschrittsbonus von <b><span style=\"color: #e8c252;\">+15%</span></b> f\u00fcr einen erfolgreichen F\u00e4higkeitscheck beim Heilen von \u00dcberlebenden.<br/>W\u00e4hrend der Verwendung von Autodidakt k\u00f6nnen keine gro\u00dfartigen F\u00e4higkeitschecks ausgef\u00fchrt werden.\n<ul><li>Autodidakt wird nicht aktiviert, wenn ein Sanit\u00e4tskasten bei der Heilung verwendet wird.</li></ul>\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eDeinen M\u00f6glichkeiten sind keine Grenzen gesetzt, solange du hart arbeitest.\u201c -Adam Francis</span></i>\n</p>\n",
+        "desc": "Du beginnst die Runde mit einer <b><span style=\"color: #e8c252;\">-15%-igen</span></b> Fortschrittsstrafe, um \u00dcberlebende zu heilen. F\u00fcr jeden erfolgreich abgeschlossenen F\u00e4higkeitscheck beim Heilen erh\u00e4ltst du einen Z\u00e4hler, bis maximal <span style=\"color: #e8c252;\"><b>3</b></span>/<span style=\"color: #199b1e;\"><b>4</b></span>/<span style=\"color: #ac3ee3;\"><b>5</b></span>\u00a0Z\u00e4hler.<br/>Jeder Z\u00e4hler gew\u00e4hrt dir einen Fortschrittsbonus von <b><span style=\"color: #e8c252;\">+15%</span></b> f\u00fcr einen erfolgreichen F\u00e4higkeitscheck beim Heilen von \u00dcberlebenden.<br/>W\u00e4hrend der Verwendung von Autodidakt k\u00f6nnen keine gro\u00dfartigen F\u00e4higkeitschecks ausgef\u00fchrt werden.\n<ul><li>Autodidakt wird nicht aktiviert, wenn ein Sanit\u00e4tskasten bei der Heilung verwendet wird.</li></ul>\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eDeinen M\u00f6glichkeiten sind keine Grenzen gesetzt, solange du hart arbeitest.\u201c -Adam Francis</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Autodidakt",
         "name": "Autodidakt"
     },
     "Babysitter": {
-        "desc": "Du riskierst alles, um jenen in Not zu helfen.<br/><br/>Wenn du einen \u00dcberlebenden vom Haken rettest, hinterl\u00e4sst dieser keine Kratzspuren oder Blutpf\u00fctzen und erh\u00e4lt den Statuseffekt <b>Eile</b> mit <b><span style=\"color: #e8c252;\">7\u00a0%</span></b> f\u00fcr <span style=\"color: #e8c252;\"><b>4</b></span>/<span style=\"color: #199b1e;\"><b>6</b></span>/<span style=\"color: #ac3ee3;\"><b>8</b></span>\u00a0Sekunden.<br/><br/>Du siehst die Aura des Killers f\u00fcr <b><span style=\"color: #ff8800;\">8 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eIch habe versprochen, euch Knallk\u00f6pfe zu retten, und genau das habe ich gerade vor.\" -Steve Harrington</span></i>\n</p>\n",
+        "desc": "Du riskierst alles, um jenen in Not zu helfen.<br/><br/>Wenn du einen \u00dcberlebenden vom Haken rettest, hinterl\u00e4sst dieser keine Kratzspuren oder Blutpf\u00fctzen und erh\u00e4lt den Statuseffekt <b>Eile</b> mit <b><span style=\"color: #e8c252;\">10\u00a0%</span></b> f\u00fcr <span style=\"color: #e8c252;\"><b>20</b></span>/<span style=\"color: #199b1e;\"><b>25</b></span>/<span style=\"color: #ac3ee3;\"><b>30</b></span>\u00a0Sekunden.<br/><br/>Du siehst die Aura des Killers f\u00fcr <b><span style=\"color: #ff8800;\">8 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eIch habe versprochen, euch Knallk\u00f6pfe zu retten, und genau das habe ich gerade vor.\" -Steve Harrington</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Babysitter",
         "name": "Babysitter"
     },
@@ -230,7 +230,7 @@
         "name": "Innere Kraft"
     },
     "Iron_Will": {
-        "desc": "Du kannst dich konzentrieren und verf\u00e4llst in einen meditations\u00e4hnlichen Zustand, um den Schmerz etwas zu bet\u00e4uben. Durch Verletzungen hervorgerufene Schmerzenslaute werden um <span style=\"color: #e8c252;\"><b>25</b></span>/<span style=\"color: #199b1e;\"><b>50</b></span>/<span style=\"color: #ac3ee3;\"><b>75</b></span>\u00a0% verringert. Funktioniert nicht bei <b>Ersch\u00f6pfung</b>. Verursacht keine <b>Ersch\u00f6pfung</b>.\n",
+        "desc": "Du kannst dich konzentrieren und verf\u00e4llst in einen meditations\u00e4hnlichen Zustand, um den Schmerz etwas zu bet\u00e4uben. Durch Verletzungen hervorgerufene Schmerzenslaute werden um <span style=\"color: #e8c252;\"><b>80</b></span>/<span style=\"color: #199b1e;\"><b>90</b></span>/<span style=\"color: #ac3ee3;\"><b>100</b></span>\u00a0% verringert. Funktioniert nicht bei <b>Ersch\u00f6pfung</b>. Verursacht keine <b>Ersch\u00f6pfung</b>.\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Eiserner_Wille",
         "name": "Eiserner Wille"
     },
@@ -360,7 +360,7 @@
         "name": "Widerstandsf\u00e4higkeit"
     },
     "Resurgence": {
-        "desc": "Du hast verschwindend geringen \u00dcberlebenschancen getrotzt ... und du wirst es wieder tun.<br/>Du erh\u00e4ltst sofort <span style=\"color: #e8c252;\"><b>40</b></span>/<span style=\"color: #199b1e;\"><b>45</b></span>/<span style=\"color: #ac3ee3;\"><b>50</b></span>\u00a0% Heilfortschritt, wenn du vom Haken befreit wurdest oder dich selbst befreit hast.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eJetzt bin ich an der Reihe, Mistst\u00fcck.\u201c - Jill Valentine</span></i>\n</p>\n",
+        "desc": "Du hast verschwindend geringen \u00dcberlebenschancen getrotzt ... und du wirst es wieder tun.<br/>Du erh\u00e4ltst sofort <span style=\"color: #e8c252;\"><b>50</b></span>/<span style=\"color: #199b1e;\"><b>60</b></span>/<span style=\"color: #ac3ee3;\"><b>70</b></span>\u00a0% Heilfortschritt, wenn du vom Haken befreit wurdest oder dich selbst befreit hast.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eJetzt bin ich an der Reihe, Mistst\u00fcck.\u201c - Jill Valentine</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Wiederaufleben",
         "name": "Wiederaufleben"
     },
@@ -415,7 +415,7 @@
         "name": "Einziger \u00dcberlebender"
     },
     "Solidarity": {
-        "desc": "Im Teilen von schmerzhaften Erlebnissen liegt die Kraft der Heilung.\n<p>Heilst du einen \u00dcberlebenden ohne Nutzung eines Sani-Kastens, w\u00e4hrend du selbst verletzt bist, heilst du dich auch mit einer Wandelrate von <span style=\"color: #e8c252;\"><b>40</b></span>/<span style=\"color: #199b1e;\"><b>45</b></span>/<span style=\"color: #ac3ee3;\"><b>50</b></span>\u00a0%\n</p><p><br/>\n<i><span style=\"color: #877E71;\">\u201eAuftauchen, wenn es hart auf hart kommt, sich die Probleme der Leute anh\u00f6ren und jene unterst\u00fctzen, die es brauchen - so wird man st\u00e4rker, so w\u00e4chst man.\u201c - Jane Romero</span></i>\n</p>\n",
+        "desc": "Im Teilen von schmerzhaften Erlebnissen liegt die Kraft der Heilung.\n<p>Heilst du einen \u00dcberlebenden ohne Nutzung eines Sani-Kastens, w\u00e4hrend du selbst verletzt bist, heilst du dich auch mit einer Wandelrate von <span style=\"color: #e8c252;\"><b>50</b></span>/<span style=\"color: #199b1e;\"><b>60</b></span>/<span style=\"color: #ac3ee3;\"><b>70</b></span>\u00a0%\n</p><p><br/>\n<i><span style=\"color: #877E71;\">\u201eAuftauchen, wenn es hart auf hart kommt, sich die Probleme der Leute anh\u00f6ren und jene unterst\u00fctzen, die es brauchen - so wird man st\u00e4rker, so w\u00e4chst man.\u201c - Jane Romero</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Solidarit%C3%A4t",
         "name": "Solidarit\u00e4t"
     },
