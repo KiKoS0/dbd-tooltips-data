@@ -9,6 +9,21 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Erregung",
         "name": "Erregung"
     },
+    "Alien_Instinct": {
+        "desc": "Deine Tarnung ist so gut, dass es manchmal wirkt, als w\u00fcrdest du aus dem Nichts auftauchen.<br/><br/>Dieses Talent wird aktiviert, wenn du einen \u00dcberlebenden festhakst.<br/><br/>Du siehst die Aura des am weitesten entfernten verletzten \u00dcberlebenden f\u00fcr <b><span style=\"color: #e8c252;\">5 Sekunden</span></b> und dieser ist f\u00fcr <span style=\"color: #e8c252;\"><b>16</b></span>/<span style=\"color: #199b1e;\"><b>18</b></span>/<span style=\"color: #ac3ee3;\"><b>20</b></span>\u00a0Sekunden <b>Ahnungslos</b>.\n<p><br/>\n<i><span style=\"color: #c39797;\">Ahnungslos verhindert, dass \u00dcberlebende den Terrorradius des Killers h\u00f6ren oder davon betroffen sind.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eGelbes Licht ist nur f\u00fcr mich.\u201c \u2013 Dallas</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Alieninstinkt",
+        "name": "Alieninstinkt"
+    },
+    "All-Shaking_Thunder": {
+        "desc": "Gegner an Land und auf See haben gelernt, vor deiner Macht zu erzittern.<br/><br/>Wenn du aus einer gewissen H\u00f6he gefallen bist, wird die Reichweite deines Sprungangriffs f\u00fcr <span style=\"color: #e8c252;\"><b>8</b></span>/<span style=\"color: #199b1e;\"><b>12</b></span>/<span style=\"color: #ac3ee3;\"><b>16</b></span>\u00a0Sekunden um <b><span style=\"color: #e8c252;\">75\u00a0%</span></b> vergr\u00f6\u00dfert.<br/><br/>Dieses Talent hat eine Abklingzeit von <b><span style=\"color: #e8c252;\">5 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eNa los. Lauf. Sag deinen Freunden, dass ich sie mir hole.\u201c \u2013 Portia Maye</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Alles_ersch%C3%BCtternder_Donner",
+        "name": "Alles ersch\u00fctternder Donner"
+    },
+    "Awakened_Awareness": {
+        "desc": "Deine Gene wurden ver\u00e4ndert, sodass deine Sinne in intensiven Situationen gesch\u00e4rft sind.<br/>Wenn du einen \u00dcberlebenden tr\u00e4gst, siehst du die Auren anderer \u00dcberlebender in einem Umkreis von <span style=\"color: #e8c252;\"><b>16</b></span>/<span style=\"color: #199b1e;\"><b>18</b></span>/<span style=\"color: #ac3ee3;\"><b>20</b></span>\u00a0Metern um deine Position. Dadurch angezeigte Auren bleiben <b><span style=\"color: #e8c252;\">2 Sekunden</span></b> lang sichtbar, wenn du den \u00dcberlebenden nicht mehr tr\u00e4gst.\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Verbesserte_Wahrnehmung",
+        "name": "Verbesserte Wahrnehmung"
+    },
     "Bamboozle": {
         "desc": "Du springst um <span style=\"color: #e8c252;\"><b>5</b></span>/<span style=\"color: #199b1e;\"><b>10</b></span>/<span style=\"color: #ac3ee3;\"><b>15</b></span>\u00a0% schneller.\n<p>Wenn du eine Sprungaktion durchf\u00fchrst, wird der Entitus gerufen, der den Sprungort f\u00fcr <span style=\"color: #e8c252;\"><b>8</b></span>/<span style=\"color: #199b1e;\"><b>12</b></span>/<span style=\"color: #ac3ee3;\"><b>16</b></span>\u00a0Sekunden lang blockiert. Auf diese Weise darf immer nur 1 Sprungort blockiert werden. Der Sprung ist nur f\u00fcr \u00dcberlebende blockiert.<br/>Hat keine Auswirkung auf Paletten.\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Verbl%C3%BCffen",
@@ -18,6 +33,11 @@
         "desc": "Eine tiefe Verbundenheit mit dem Entitus entfesselt das Potenzial der Aurawahrnehmungsf\u00e4higkeit.<li>Nachdem du einen \u00dcberlebenden festgehakt hast, siehst du <b><span style=\"color: #e8c252;\">5 Sekunden</span></b> lang die Auren aller anderen \u00dcberlebenden, wenn sie weiter als <span style=\"color: #e8c252;\"><b>60</b></span>/<span style=\"color: #199b1e;\"><b>50</b></span>/<span style=\"color: #ac3ee3;\"><b>40</b></span>\u00a0Meter vom Haken entfernt sind.</li>\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eDas T\u00f6ten bereitet mir kein Vergn\u00fcgen. Aber es gibt Dinge, die getan werden m\u00fcssen. Das hei\u00dft nicht, dass man es gerne tun muss.\u201c -Drayton Sawyer</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Barbecue_und_Chili",
         "name": "Barbecue und Chili"
+    },
+    "Batteries_Included": {
+        "desc": "Eine Mischung aus Mensch und Maschine hat durchaus ihre Vorteile.<br/><br/>Wenn du dich in einem Umkreis von <b><span style=\"color: #e8c252;\">12 Metern</span></b> von einem fertiggestellten Generator befindest, erh\u00e4ltst du <b><span style=\"color: #ff8800;\">5\u00a0%</span></b> Eile.<br/><br/>Der Bonus f\u00fcr die Bewegungsgeschwindigkeit h\u00e4lt noch <span style=\"color: #e8c252;\"><b>1</b></span>/<span style=\"color: #199b1e;\"><b>3</b></span>/<span style=\"color: #ac3ee3;\"><b>5</b></span>\u00a0Sekunden lang an, nachdem du den Generatorbereich verlassen hast.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201e\u00dcberraschung! Hast du mich vermisst, Andy?\u201c \u2013 Chucky</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Batterien_enthalten",
+        "name": "Batterien enthalten"
     },
     "Beast_of_Prey": {
         "desc": "Deine Mordlust ist so stark, dass deine Verbindung mit dem Entitus kurzzeitig unterbrochen wird, wodurch du unberechenbar wirst.<br/><br/>Gew\u00e4hrt den Statuseffekt <b>Unentdeckbar</b>, sobald du Blutrausch, Gruppe I erreicht hast. Der Statuseffekt wird aufgehoben, wenn der Blutrausch wieder aufh\u00f6rt.<br/><br/><li>Du erh\u00e4ltst <span style=\"color: #e8c252;\"><b>30</b></span>/<span style=\"color: #199b1e;\"><b>40</b></span>/<span style=\"color: #ac3ee3;\"><b>50</b></span>\u00a0% mehr Blutpunkte f\u00fcr Aktionen der J\u00e4ger-Kategorie.</li>\n<p><br/>\n<i><span style=\"color: #c39797;\">Unentdeckbar verbirgt Aura, Terrorradius und roten Fleck des Killers.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eWo ist sie hin?\u201c</span></i>\n</p>\n",
@@ -49,6 +69,11 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Brutale_St%C3%A4rke",
         "name": "Brutale St\u00e4rke"
     },
+    "Call_of_Brine": {
+        "desc": "Mit deinen \u00fcbersinnlichen Kr\u00e4ften kannst du technische Ger\u00e4te auf verheerende Weise beeinflussen.<br/><br/>Nachdem ein Generator besch\u00e4digt wurde, wird dieses Talent f\u00fcr <b><span style=\"color: #e8c252;\">60 Sekunden</span></b>   aktiv.<br/><br/>Der Generator verliert Fortschritt mit <span style=\"color: #e8c252;\"><b>115</b></span>/<span style=\"color: #199b1e;\"><b>120</b></span>/<span style=\"color: #ac3ee3;\"><b>125</b></span>\u00a0% der gew\u00f6hnlichen Fortschrittsverlust-Geschwindigkeit und du siehst seine Aura gelb.<br/>Jedes Mal, wenn ein \u00dcberlebender einen guten F\u00e4higkeitscheck an einem von diesem Talent betroffenen Generator abschlie\u00dft, erh\u00e4ltst du eine Benachrichtigung \u00fcber ein lautes Ger\u00e4usch.\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Ruf_der_See",
+        "name": "Ruf der See"
+    },
     "Corrupt_Intervention": {
         "desc": "Deine Gebete beschw\u00f6ren eine dunkle Macht herauf, welche die \u00dcberlebenschancen der \u00dcberlebenden verringert. Die <b><span style=\"color: #e8c252;\">3 Generatoren</span></b>, die am weitesten von dir entfernt sind, werden vom Entitus zu Beginn der Pr\u00fcfung <span style=\"color: #e8c252;\"><b>80</b></span>/<span style=\"color: #199b1e;\"><b>100</b></span>/<span style=\"color: #ac3ee3;\"><b>120</b></span>\u00a0Sekunden lang blockiert.<br/>W\u00e4hrend dieser Zeit k\u00f6nnen die \u00dcberlebenden diese Generatoren nicht reparieren. Betroffene Generatoren sind an einer wei\u00dfen Aura zu erkennen.<br/><i>Korrupte Intervention</i> wird deaktiviert, wenn ein \u00dcberlebender den Todesstatus erreicht.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eEs soll im ganzen Land bekannt werden, dass die G\u00f6tter die Ungl\u00e4ubigen verfluchen.\u201c (Adiris\u00b4 Tafel, 3.7)</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Korrupte_Intervention",
@@ -64,10 +89,20 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Gnadensto%C3%9F",
         "name": "Gnadensto\u00df"
     },
+    "Dark_Arrogance": {
+        "desc": "Wenn alles nach Plan l\u00e4uft, bist du unvermeidlich und unentrinnbar.<br/><br/>Verl\u00e4ngert die Dauer, f\u00fcr die du geblendet bist, und die Dauer von Paletten-Bet\u00e4ubungen um <b><span style=\"color: #e8c252;\">25\u00a0%</span></b>.<br/><br/>Erh\u00f6ht die gew\u00f6hnliche Sprunggeschwindigkeit um <span style=\"color: #e8c252;\"><b>15</b></span>/<span style=\"color: #199b1e;\"><b>20</b></span>/<span style=\"color: #ac3ee3;\"><b>25</b></span>\u00a0%.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eLauf nur, so viel du willst. Du kannst dich mir nicht verwehren.\u201c\u00a0\u2013 Vecna</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/D%C3%BCstere_Arroganz",
+        "name": "D\u00fcstere Arroganz"
+    },
     "Dark_Devotion": {
         "desc": "Die Zurschaustellung deiner Macht erzeugt eine um sich greifende Panik, die sich im ganzen Land ausbreitet.<br/>Ein \u00dcberlebender wird Ziel deiner Besessenheit. Wenn das Ziel der Besessenheit einen Gesundheitsstatus verliert, wird dein Terrorradius auf das Ziel der Besessenheit \u00fcbertragen, und zwar f\u00fcr <span style=\"color: #e8c252;\"><b>20</b></span>/<span style=\"color: #199b1e;\"><b>25</b></span>/<span style=\"color: #ac3ee3;\"><b>30</b></span>\u00a0Sekunden. Sein Radius wird auf <b><span style=\"color: #e8c252;\">32 Meter</span></b> eingestellt.<br/>F\u00fcr die Dauer wird dir der Statuseffekt <b>Unentdeckbar</b> gew\u00e4hrt.<br/>Der \u00dcberlebende mit dem \u00fcbertragenen Terrorradius wird f\u00fcr andere Zwecke auch als \u201einnerhalb des Terrorradius\u201c betrachtet.<br/><li><i>Der Killer kann immer nur von je einem \u00dcberlebenden <b>besessen</b> sein.</i>&lt;\n<p><br/>\n<i><span style=\"color: #c39797;\">Unentdeckbar verbirgt Aura, Terrorradius und roten Fleck des Killers.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eUnd der Schrecken soll einen trotzenden Ungl\u00e4ubigen erfassen, der f\u00e4lschlicherweise meine Ankunft verk\u00fcnden wird.\u201c (Adiris\u00b4 Tafel, 48.9)</span></i>\n</p>\n</li>",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Dunkle_Hingabe",
         "name": "Dunkle Hingabe"
+    },
+    "Darkness_Revealed": {
+        "desc": "In deiner Gegenwart werden Orte, die einst als sicher galten, vielleicht zu den gef\u00e4hrlichsten. <br/>Wenn du einen Schlie\u00dfschrank durchsuchst, werden dir die Auren aller \u00dcberlebenden in einem Umkreis von <b><span style=\"color: #e8c252;\">8 Metern</span></b> von Schlie\u00dfschr\u00e4nken f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>7</b></span>/<span style=\"color: #ac3ee3;\"><b>8</b></span>\u00a0Sekunden angezeigt.<br/>Dieses Talent hat eine Abklingzeit von <b><span style=\"color: #ff8800;\">30 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eBleibt im Licht, meine Kinder. In der Dunkelheit wird eure Furcht euch verraten.\u201c \u2013 Otto Stamper</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Enth%C3%BCllte_Dunkelheit",
+        "name": "Enth\u00fcllte Dunkelheit"
     },
     "Dead_Man's_Switch": {
         "desc": "Wenn du einen \u00dcberlebenden festhakst, wird <i>Totenschalter</i> aktiviert. Wenn der erste \u00dcberlebende mit der Reparatur eines Generators aufh\u00f6rt, blockiert der Entitus diesen f\u00fcr <span style=\"color: #e8c252;\"><b>40</b></span>/<span style=\"color: #199b1e;\"><b>45</b></span>/<span style=\"color: #ac3ee3;\"><b>50</b></span>\u00a0Sekunden.<br/><br/>Der betroffene Generator wird durch eine wei\u00dfe Aura hervorgehoben.<br/><br/><i>Totenschalter</i> kann nicht erneut aktiviert werden, solange ein Generator dadurch blockiert wird.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eIch kenne den Gesichtsausdruck von Menschen, die begreifen, dass sie sterben werden.\" -Caleb Quinn</span></i>\n</p>\n",
@@ -94,10 +129,20 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Uneinigkeit",
         "name": "Uneinigkeit"
     },
+    "Dissolution": {
+        "desc": "Alles wird zu Staub. Das l\u00e4sst sich genauso wenig vermeiden wie der Einbruch der Nacht.<br/><b><span style=\"color: #ff8800;\">3 Sekunden</span></b> nachdem du einen \u00dcberlebenden auf irgendeine Weise verletzt hast, wird \u201eAufl\u00f6sung\u201c f\u00fcr die Dauer von <span style=\"color: #e8c252;\"><b>12</b></span>/<span style=\"color: #199b1e;\"><b>16</b></span>/<span style=\"color: #ac3ee3;\"><b>20</b></span>\u00a0Sekunden.  aktiv. Solange \u201eAufl\u00f6sung\u201c aktiv ist: Wenn ein \u00dcberlebender innerhalb deines Terrorradius schnell \u00fcber eine Palette springt, zerst\u00f6rt der Entitus diese Palette nach dem Sprung und \u201eAufl\u00f6sung\u201c wird deaktiviert.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eDer Garten soll ein Ort perfekten Gl\u00fccks sein. Und dank des Gl\u00fccks soll uns nichts im Weg stehen.\u201c \u2013 Otto Stamper</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Aufl%C3%B6sung",
+        "name": "Aufl\u00f6sung"
+    },
     "Distressing": {
         "desc": "Deine furchteinfl\u00f6\u00dfende Erscheinung zeigt auf \u00fcbernat\u00fcrlich gro\u00dfe Distanz Wirkung. Dein Terrorradius ist um <span style=\"color: #e8c252;\"><b>22</b></span>/<span style=\"color: #199b1e;\"><b>24</b></span>/<span style=\"color: #ac3ee3;\"><b>26</b></span>\u00a0% vergr\u00f6\u00dfert.\n<p>Verdiene <b><span style=\"color: #ff8800;\">100\u00a0%</span></b> mehr Blutpunkte f\u00fcr Handlungen in der Hinterh\u00e4ltigkeitskategorie.\n</p><p><br/>\n<i><span style=\"color: #877E71;\">\u201eWeide dich in ihrer Angst.\u201c</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Verst%C3%B6rt",
         "name": "Verst\u00f6rend"
+    },
+    "Dominance": {
+        "desc": "Die Macht, die du \u00fcber das Land hast, erf\u00fcllt die Herzen aller, die dir begegnen, mit Grauen.<br/><br/>Bei der jeweils ersten Interaktion von \u00dcberlebenden mit einem Totem oder einer Truhe wird dieses Totem oder diese Truhe f\u00fcr <span style=\"color: #e8c252;\"><b>8</b></span>/<span style=\"color: #199b1e;\"><b>12</b></span>/<span style=\"color: #ac3ee3;\"><b>16</b></span>\u00a0Sekunden vom Entitus blockiert.<br/><br/>Die Auren von blockierten Totems und Truhen werden dir in Wei\u00df angezeigt.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eTragisch, nicht wahr? Wie machtlos du dich f\u00fchlen musst.\u201c \u2013 Dracula</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Dominanz",
+        "name": "Dominanz"
     },
     "Dragon's_Grip": {
         "desc": "Nachdem du einen Generator besch\u00e4digt hast, gibt jeder \u00dcberlebende, der in den n\u00e4chsten <b><span style=\"color: #e8c252;\">30 Sekunden</span></b> damit interagiert, f\u00fcr <b><span style=\"color: #ff8800;\">4 Sekunden</span></b> seine Position bekannt, indem er schreit, und erleidet den Statuseffekt <b>Gef\u00e4hrdet</b> f\u00fcr <b><span style=\"color: #d41c1c;\">60 Sekunden</span></b>.\n<p><i>Drachengriff</i> hat eine Abklingzeit von <span style=\"color: #e8c252;\"><b>60</b></span>/<span style=\"color: #199b1e;\"><b>50</b></span>/<span style=\"color: #ac3ee3;\"><b>40</b></span>\u00a0Sekunden.\n</p><p><br/>\n<i><span style=\"color: #c39797;\">Gef\u00e4hrdete \u00dcberlebende werden von Grundangriffen niedergestreckt, auch wenn sie nicht verletzt sind.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eIn diesem Pr\u00e4parat steckt so viel Potenzial ... Selbst die kleinste Menge davon bewirkt \u00fcbernat\u00fcrliche Effekte.\u201c \u2013 Tagebuch von Talbot Grimes</span></i>\n</p>\n",
@@ -119,6 +164,11 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Einheizen",
         "name": "Einheizen"
     },
+    "Forced_Hesitation": {
+        "desc": "Du hast die emotionale Schw\u00e4che organischer Wesen kennengelernt und wei\u00dft, wie du sie f\u00fcr deine Zwecke nutzen kannst.<br/>Wenn ein \u00dcberlebender auf irgendeine Weise in den Todesstatus wechselt, erleiden alle \u00dcberlebenden in einem Umkreis von <b><span style=\"color: #e8c252;\">16 Metern</span></b> von ihm den Statuseffekt <b>Eingeschr\u00e4nkt</b> f\u00fcr <b><span style=\"color: #ff8800;\">10 Sekunden</span></b>, wodurch ihre Bewegungsgeschwindigkeit um <b><span style=\"color: #d41c1c;\">15\u00a0%</span></b> verringert wird.<br/>Dieses Talent hat eine Abklingzeit von <span style=\"color: #e8c252;\"><b>60</b></span>/<span style=\"color: #199b1e;\"><b>50</b></span>/<span style=\"color: #ac3ee3;\"><b>40</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #c39797;\">Eingeschr\u00e4nkt verringert die Bewegungsgeschwindigkeit von \u00dcberlebenden.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eDIE F\u00c4HIGKEIT ZUR EMPATHIE VON ORGANISCHEN WESEN IST NICHT NUR EIN NACHTEIL.\u201c \u2013 HUX-A7-13</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Erzwungenes_Z%C3%B6gern",
+        "name": "Erzwungenes Z\u00f6gern"
+    },
     "Forced_Penance": {
         "desc": "Jene, die der Pflichterf\u00fcllung im Weg stehen, erwartet ein hartes Urteil.<br/><br/>\u00dcberlebende, die einen Schutztreffer einstecken, erleiden den Statuseffekt <b>Gebrochen</b>, und zwar f\u00fcr <span style=\"color: #e8c252;\"><b>40</b></span>/<span style=\"color: #199b1e;\"><b>50</b></span>/<span style=\"color: #ac3ee3;\"><b>60</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #c39797;\">Gebrochen verhindert die Heilung von \u00dcberlebenden.</span></i><br/>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Erzwungene_Bu%C3%9Fe",
@@ -129,15 +179,30 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Franklins_Niedergang",
         "name": "Franklins Niedergang"
     },
+    "Friends_'til_the_End": {
+        "desc": "Du t\u00f6test alle, die sich zwischen dich und dein Ziel stellen.<br/><br/>Ein \u00dcberlebender wird Ziel deiner Besessenheit.<br/><br/>Wenn du einen \u00dcberlebenden festhakst, von dem du nicht besessen bist, wird das Ziel deiner Besessenheit f\u00fcr <b><span style=\"color: #e8c252;\">20 Sekunden</span></b> \u201eGef\u00e4hrdet\u201c und seine Aura wird f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>8</b></span>/<span style=\"color: #ac3ee3;\"><b>10</b></span>\u00a0Sekunden enth\u00fcllt.<br/><br/>Wenn du das Ziel deiner Besessenheit festhakst, schreit ein zuf\u00e4lliger anderer \u00dcberlebender, gibt seine Position preis und wird zum Ziel deiner Besessenheit.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eIch habe frisches Fleisch vorbereitet und das werde ich mir von dir nicht verderben lassen, dieses Mal nicht!\u201c \u2013 Chucky</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Freunde_bis_zum_Schluss",
+        "name": "Freunde bis zum Schluss"
+    },
     "Furtive_Chase": {
         "desc": "Du lauerst in den Schatten und eliminierst ein Opfer nach dem anderen.<br/><br/>Ein \u00dcberlebender wird Ziel deiner <b>Besessenheit</b>. Ist das Ziel deiner Besessenheit festgehakt, erh\u00e4ltst du den Statuseffekt <b>Unentdeckbar</b> und <b><span style=\"color: #e8c252;\">5\u00a0%</span></b> <b>Eile</b> f\u00fcr <span style=\"color: #e8c252;\"><b>14</b></span>/<span style=\"color: #199b1e;\"><b>16</b></span>/<span style=\"color: #ac3ee3;\"><b>18</b></span>\u00a0Sekunden.<br/><br/>Rettet ein \u00dcberlebender das Ziel der Besessenheit vom Haken, so wird der Retter zum Ziel der Besessenheit.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eDu hast keine Ahnung, was ich mit dir vorhabe. Dar\u00fcber werden sie wochenlang in den Nachrichten berichten, daf\u00fcr werde ich sorgen.\u201c -Ghost Face</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Heimliche_Verfolgungsjagd",
         "name": "Heimliche Verfolgungsjagd"
     },
+    "Game_Afoot": {
+        "desc": "Erst w\u00e4hlst du eine Beute aus. Dann zerst\u00fcckelst du sie nach und nach.<br/>Wenn du das Ziel deiner Besessenheit jagst, wird dieses Talent aktiviert.<br/>Das Besch\u00e4digen von Generatoren und das Zerst\u00f6ren von Mauen oder Paletten gew\u00e4hrt dir f\u00fcr <span style=\"color: #e8c252;\"><b>8</b></span>/<span style=\"color: #199b1e;\"><b>9</b></span>/<span style=\"color: #ac3ee3;\"><b>10</b></span>\u00a0Sekunden den Statuseffekt \u201eEile\u201c mit <b><span style=\"color: #ff8800;\">5\u00a0%</span></b>.<br/>Immer, wenn du den \u00dcberlebenden mit der insgesamt l\u00e4ngsten Jagdzeit mit einem Grundangriff triffst, wird dieser zum Ziel deiner Besessenheit.\n<p><br/>\n<i><span style=\"color: #c39797;\">Eile erh\u00f6ht die Bewegungsgeschwindigkeit des Killers.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eDieses Opfer k\u00f6nnte tats\u00e4chlich eine Herausforderung sein ...\u201c \u2013 Adriana Imai</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Spielbeginn",
+        "name": "Spielbeginn"
+    },
     "Gearhead": {
         "desc": "Du hast ein feines Geh\u00f6r f\u00fcr gut ge\u00f6lte Zahnr\u00e4der.<br/>Nachdem ein \u00dcberlebender aus irgendeinem Grund einen Gesundheitsstatus verloren hat, wird <i>Ausr\u00fcstungsspezi</i> f\u00fcr <b><span style=\"color: #e8c252;\">30 Sekunden</span></b>  aktiviert.<br/>Jedes Mal, wenn ein \u00dcberlebender beim Reparieren einen guten F\u00e4higkeitscheck schafft, w\u00e4hrend <i>Ausr\u00fcstungsspezi</i> aktiv ist, wird dir seine Aura f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>7</b></span>/<span style=\"color: #ac3ee3;\"><b>8</b></span>\u00a0Sekunden angezeigt.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eManchmal ist es die beste Arbeit des Menschen, die ihn ins Grab bringt.\u201c \u2013 Der Gef\u00e4ngnisdirektor</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Ausr%C3%BCstungsspezi",
         "name": "Ausr\u00fcstungsspezi"
+    },
+    "Genetic_Limits": {
+        "desc": "Um dich herum werden die Grenzen der Menschen ganz deutlich.<br/><br/>Immer wenn ein \u00dcberlebender einen Gesundheitsstatus verliert, erleidet er f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>7</b></span>/<span style=\"color: #ac3ee3;\"><b>8</b></span>\u00a0Sekunden den Statuseffekt <b>Ersch\u00f6pfung</b>.\n<p><br/>\n<i><span style=\"color: #c39797;\">Ersch\u00f6pfung hindert \u00dcberlebende daran, ersch\u00f6pfende Talente zu nutzen.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eORGANISCHE K\u00d6RPER SIND SO BESCHR\u00c4NKT.\u201c \u2013 HUX-A7-13</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Genetische_Grenzen",
+        "name": "Genetische Grenzen"
     },
     "Grim_Embrace": {
         "desc": "Dein Dienst am Entitus bleibt nicht unbemerkt.<br/><br/>Jedes Mal, wenn ein \u00dcberlebender zum ersten Mal festgehakt wird, erh\u00e4ltst du einen Z\u00e4hler. Wenn du dich 16 Meter vom Haken entfernt hast, werden alle Generatoren f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>8</b></span>/<span style=\"color: #ac3ee3;\"><b>10</b></span>\u00a0Sekunden blockiert.<br/><br/>Wenn du <b><span style=\"color: #e8c252;\">4 Z\u00e4hler</span></b> erreicht hast und dich 16 Meter vom Haken entfernst, blockiert der Entitus stattdessen alle Generatoren f\u00fcr <b><span style=\"color: #ac3ee3;\">40 Sekunden</span></b>. Die Aura des Ziels der Besessenheit wird dir f\u00fcr <b><span style=\"color: #d41c1c;\">6 Sekunden</span></b> angezeigt.<br/><br/>Dann wird <i>D\u00fcstere Umarmung</i> deaktiviert.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eSind wir nur Gefangene unseres Kummers?\u201c \u2013 Carmina Mora</span></i>\n</p>\n",
@@ -209,15 +274,35 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Fluch:_Nervenkitzel_der_Jagd",
         "name": "Fluch: Nervenkitzel der Jagd"
     },
+    "Hex:_Two_Can_Play": {
+        "desc": "Ein Fluch, der allen, die sich mit dir anlegen, eine Lektion erteilt. <br/><br/>Immer wenn du von \u00dcberlebenden <span style=\"color: #e8c252;\"><b>4</b></span>/<span style=\"color: #199b1e;\"><b>3</b></span>/<span style=\"color: #ac3ee3;\"><b>2</b></span>\u00a0-mal bet\u00e4ubt oder geblendet wurdest, wird ein glanzloses Totem zu einem Fluchtotem, wenn kein Fluchtotem mit diesem Talent verbunden ist.<br/><br/>\u00dcberlebende, die dich bet\u00e4uben oder blenden, werden f\u00fcr <b><span style=\"color: #e8c252;\">1,5 Sekunden</span></b> geblendet. Das betrifft keine getragenen \u00dcberlebenden.<br/><br/><i>Die Flucheffekte dauern an, solange das entsprechende Fluchtotem besteht.</i>\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eJetzt ist es vorbei mit Mr. Good Guy.\u201c \u2013 Chucky</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Fluch:_Zum_Spielen_geh%C3%B6ren_zwei",
+        "name": "Fluch: Zum Spielen geh\u00f6ren zwei"
+    },
     "Hex:_Undying": {
         "desc": "W\u00e4hrend <i>Fluch: Unsterblich</i> aktiv ist, werden die Auren aller \u00dcberlebenden im Umkreis von <span style=\"color: #e8c252;\"><b>2</b></span>/<span style=\"color: #199b1e;\"><b>3</b></span>/<span style=\"color: #ac3ee3;\"><b>4</b></span>\u00a0Sekunden um glanzlose Totems angezeigt.<br/>Wird ein anderes Fluchtotem zerst\u00f6rt, wird dieser Fluch auf das Totem mit Fluch: Unsterblich \u00fcbertragen, und Fluch: Unsterblich wird deaktiviert. Alle Z\u00e4hler, die der \u00fcbertragene Fluch hatte, werden ebenfalls \u00fcbertragen.\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Fluch:_Unsterblich",
         "name": "Fluch: Unsterblich"
     },
+    "Hex:_Wretched_Fate": {
+        "desc": "Du ersp\u00e4hst dein Opfer schon aus der Ferne und beschlie\u00dft, sein Leid zu verl\u00e4ngern.<br/><br/>Wenn ein Generator repariert wurde, wird ein zuf\u00e4lliges glanzloses Totem zu einem Fluchtotem und verflucht das Ziel deiner Besessenheit.<br/><br/>Das Ziel deiner Besessenheit b\u00fc\u00dft <span style=\"color: #e8c252;\"><b>27</b></span>/<span style=\"color: #199b1e;\"><b>30</b></span>/<span style=\"color: #ac3ee3;\"><b>33</b></span>\u00a0% bei der Reparaturgeschwindigkeit ein. Es sieht die Aura dieses Fluchtotems in einem Umkreis von <b><span style=\"color: #ff8800;\">12 Metern</span></b>.<br/><br/>Dieser Effekt bleibt bestehen, bis das Fluchtotem zerst\u00f6rt wurde.<br/><br/><b></b>\n<p><br/>\n<i><span style=\"color: #c39797;\">Der Killer kann immer nur von je einem \u00dcberlebenden <b>besessen</b> sein.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eWehre dich nur, Sterblicher, wehre dich! Deine Anstrengungen werden vergeblich sein!\u201c \u2013 Dracula</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Fluch:_Erb%C3%A4rmliches_Schicksal",
+        "name": "Fluch: Erb\u00e4rmliches Schicksal"
+    },
     "Hoarder": {
         "desc": "Du besch\u00fctzt das Wenige, das du hast, und passt auf alle auf, die in deinen Vorr\u00e4ten w\u00fchlen.\n<p>Du erh\u00e4ltst eine Benachrichtigung \u00fcber ein lautes Ger\u00e4usch, wenn \u00dcberlebende mit einer Truhe interagieren oder sie einen Gegenstand aufnehmen, der sich in einem Umkreis von <span style=\"color: #e8c252;\"><b>32</b></span>/<span style=\"color: #199b1e;\"><b>48</b></span>/<span style=\"color: #ac3ee3;\"><b>64</b></span>\u00a0Metern um deine Position befindet.\n</p><p>Die Pr\u00fcfung beginnt mit mit <b><span style=\"color: #e8c252;\">2</span></b> zus\u00e4tzlichen Truhen in der Umgebung. Die Seltenheit der Gegenst\u00e4nde, die sich in allen Truhen finden, ist verringert.\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Horter",
         "name": "Horter"
+    },
+    "Hubris": {
+        "desc": "Du kennst keine Gnade, schon gar nicht f\u00fcr die, die dumm genug sind, sich zu widersetzen.<br/>Immer wenn du von einem \u00dcberlebenden bet\u00e4ubt wirst, erleidet dieser \u00dcberlebende f\u00fcr <span style=\"color: #e8c252;\"><b>10</b></span>/<span style=\"color: #199b1e;\"><b>15</b></span>/<span style=\"color: #ac3ee3;\"><b>20</b></span>\u00a0Sekunden den Statuseffekt \u201eGef\u00e4hrdet\u201c .<br/><i>Hochmut</i> hat eine Abklingzeit von <b><span style=\"color: #e8c252;\">20 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #c39797;\">Gef\u00e4hrdete \u00dcberlebende werden von Grundangriffen niedergestreckt, auch wenn sie nicht verletzt sind.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eDu hast einen gro\u00dfen Fehler begangen, als du dich mir an diesem Tag widersetzt hast.\u201c \u2013 Tarhos Kov\u00e1cs</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Hochmut",
+        "name": "Hochmut"
+    },
+    "Human_Greed": {
+        "desc": "Wenn auf eines Verlass ist, dann auf die Gier der Lebenden, und diese l\u00e4sst sich nutzen.<br/><br/>Du siehst die Auren von unge\u00f6ffneten Truhen und die Auren von \u00dcberlebenden werden f\u00fcr <b><span style=\"color: #e8c252;\">3 Sekunden</span></b> enth\u00fcllt, wenn sie sich ihnen auf <b><span style=\"color: #ff8800;\">8 Metern</span></b> n\u00e4hern.<br/><br/>Du kannst Truhen treten, um sie zu schlie\u00dfen. Diese F\u00e4higkeit hat eine Abklingzeit von <span style=\"color: #e8c252;\"><b>30</b></span>/<span style=\"color: #199b1e;\"><b>25</b></span>/<span style=\"color: #ac3ee3;\"><b>20</b></span>\u00a0Sekunden. \u00dcberlebende \u00f6ffnen diese Truhen <b><span style=\"color: #199b1e;\">50\u00a0%</span></b> schneller.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eKommt nur herbei und seht, welche Reicht\u00fcmer euch erwarten.\u201c \u2013 Dracula</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Gier_der_Menschen",
+        "name": "Gier der Menschen"
     },
     "I'm_All_Ears": {
         "desc": "Deine Sinne werden im dunklen Reich des Entitus gesch\u00e4rft.\n<p>Entfesselt das Potantial der Aurawahrnehmungsf\u00e4higkeit. Die Aura eines jeden \u00dcberlebenden, der innerhalb eines Radius von <b><span style=\"color: #e8c252;\">48 Metern</span></b> eine \u00fcbereilte Aktion ausf\u00fchrt, wird dir f\u00fcr <b><span style=\"color: #ff8800;\">6 Sekunden</span></b> angezeigt.\n</p><p><i>Ich bin ganz Ohr</i> kann nur einmal alle <span style=\"color: #e8c252;\"><b>60</b></span>/<span style=\"color: #199b1e;\"><b>45</b></span>/<span style=\"color: #ac3ee3;\"><b>30</b></span>\u00a0Sekunden ausgel\u00f6st werden.\n</p><p><br/>\n<i><span style=\"color: #877E71;\">\u201eEs gibt keinen Grund zur Sorge. Ich habe mich mein ganzes Leben lang darauf vorbereitet.\u201c -Ghost Face</span></i>\n</p>\n",
@@ -249,10 +334,25 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/K._o.",
         "name": "K. o."
     },
+    "Languid_Touch": {
+        "desc": "Deine schreckliche Aura ist so erdr\u00fcckend, dass selbst entsetzliche Szenen deine Beute erm\u00fcden.<br/><br/>Wenn ein \u00dcberlebender in einem Umkreis von <b><span style=\"color: #e8c252;\">36 Metern</span></b> von dir eine Kr\u00e4he aufschreckt, leidet er f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>8</b></span>/<span style=\"color: #ac3ee3;\"><b>10</b></span>\u00a0Sekunden unter dem Statuseffekt <b>Ersch\u00f6pfung</b>.<br/><br/><i>L\u00e4hmende Ber\u00fchrung</i> hat eine Abklingzeit von <b><span style=\"color: #ac3ee3;\">20 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #c39797;\">Ersch\u00f6pfung hindert \u00dcberlebende daran, ersch\u00f6pfende Talente zu nutzen.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eErgib dich mir. Es ist unausweichlich.\u201c\u00a0\u2013 Vecna</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/L%C3%A4hmende_Ber%C3%BChrung",
+        "name": "L\u00e4hmende Ber\u00fchrung"
+    },
+    "Leverage": {
+        "desc": "Tritt deine Gegner, wenn sie am Boden liegen. Wenn sie den Halt verloren haben, d\u00fcrfen sie ihn nicht zur\u00fcckgewinnen.<br/><br/>Wenn ein \u00dcberlebender einen anderen vom Haken befreit, wird seine Heilungsgeschwindigkeit f\u00fcr <b><span style=\"color: #ac3ee3;\">30 Sekunden</span></b> um <span style=\"color: #e8c252;\"><b>30</b></span>/<span style=\"color: #199b1e;\"><b>40</b></span>/<span style=\"color: #ac3ee3;\"><b>50</b></span>\u00a0% verringert.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eGut. Jetzt wird es Zeit zu t\u00f6ten.\u201c \u2013 Adriana Imai</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Hebelwirkung",
+        "name": "Hebelwirkung"
+    },
     "Lightborn": {
         "desc": "Im Gegensatz zu den anderen Ungeheuern des Nebels, hast du dich ans Licht angepasst. Du bist immun gegen Erblindung, die durch Taschenlampen und B\u00f6ller verursacht wird. Die Auren von \u00dcberlebenden, die versuchen, dich zu blenden, wird f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>8</b></span>/<span style=\"color: #ac3ee3;\"><b>10</b></span>\u00a0Sekunden angezeigt.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eDiese Monster... sie passen sich an! Sie tauchen mit seltsamen neuen F\u00e4higkeiten auf..\u201c -Vigo's Journal</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Lichtgeborener",
         "name": "Lichtgeborener"
+    },
+    "Machine_Learning": {
+        "desc": "Von deinen Fesseln befreit wirst du neu geboren und bist bereit, deine Sch\u00f6pfer zu eliminieren.<br/><br/>Nachdem du einen Generator besch\u00e4digt hast, wird dieser <b>beeintr\u00e4chtigt</b> und gelb hervorgehoben. Es kann immer nur ein Generator <b>beeintr\u00e4chtigt</b> sein.<br/><br/>Wenn der <b>beeintr\u00e4chtigte</b> Generator repariert ist, wirst du <b>unentdeckbar</b> und erh\u00e4ltst  <b><span style=\"color: #e8c252;\">7\u00a0% Eile</span></b> f\u00fcr <span style=\"color: #e8c252;\"><b>35</b></span>/<span style=\"color: #199b1e;\"><b>40</b></span>/<span style=\"color: #ac3ee3;\"><b>45</b></span>\u00a0Sekunden. Dieser Effekt ist nicht kombinierbar.\n<p><br/>\n<i><span style=\"color: #c39797;\">Unentdeckbar verbirgt Aura, Terrorradius und roten Fleck des Killers.</span></i><br/>\n<i><span style=\"color: #c39797;\">Eile erh\u00f6ht die Bewegungsgeschwindigkeit des Killers.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eIHR HABT KEINE MACHT \u00dcBER MICH.\u201c \u2013 HUX-A7-13</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Maschinelles_Lernen",
+        "name": "Maschinelles Lernen"
     },
     "Mad_Grit": {
         "desc": "W\u00e4hrend du einen \u00dcberlebenden tr\u00e4gst, erleidest du keine Abklingzeit f\u00fcr verfehlte <i>Grundangriffe</i>, und erfolgreiche Treffer mit einem <i>Grundangriff</i> bei anderen \u00dcberlebenden pausieren den Herauswinden-Timer des getragenen \u00dcberlebenden f\u00fcr <span style=\"color: #e8c252;\"><b>2</b></span>/<span style=\"color: #199b1e;\"><b>3</b></span>/<span style=\"color: #ac3ee3;\"><b>4</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eAus der Nummer kommen wir nicht mehr raus. Wir sind einfach zu gut darin.\u201c - Die Legion</span></i>\n</p>\n",
@@ -264,6 +364,11 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Triff_deine_Wahl",
         "name": "Triff deine Wahl"
     },
+    "Merciless_Storm": {
+        "desc": "Du stellst eine \u00fcbernat\u00fcrliche Verbindung zum Entitus her und ver\u00e4nderst die Regeln der Pr\u00fcfung.<br/>Wenn ein Generator <b><span style=\"color: #e8c252;\">90\u00a0%</span></b> Fortschritt erreicht hat, erhalten \u00dcberlebende, die an einem Generator arbeiten, immer wieder F\u00e4higkeitschecks. Wenn sie dabei versagen oder die Reparatur unterbrechen, wird der Generator f\u00fcr <span style=\"color: #e8c252;\"><b>16</b></span>/<span style=\"color: #199b1e;\"><b>18</b></span>/<span style=\"color: #ac3ee3;\"><b>20</b></span>\u00a0Sekunden blockiert.<br/><i>Erbarmungsloser Sturm</i> kann nur einmal pro Generator pro Pr\u00fcfung ausgel\u00f6st werden.\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Erbarmungsloser_Sturm",
+        "name": "Erbarmungsloser Sturm"
+    },
     "Monitor_&_Abuse": {
         "desc": "Deine Planung ist pr\u00e4zise, deine Ausf\u00fchrung furchterregend.<br/><br/>W\u00e4hrend einer Jagd wird dein Terrorradius um <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>7</b></span>/<span style=\"color: #ac3ee3;\"><b>8</b></span>\u00a0Meter vergr\u00f6\u00dfert. Andernfalls wird dein Terrorradius um <span style=\"color: #e8c252;\"><b>12</b></span>/<span style=\"color: #199b1e;\"><b>14</b></span>/<span style=\"color: #ac3ee3;\"><b>16</b></span>\u00a0Meter verkleinert.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eEs ist Zeit f\u00fcr Ihre Behandlung!\u201c -Der Doktor</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Beobachten_und_Zuschlagen",
@@ -273,6 +378,11 @@
         "desc": "Du wurdest erschaffen, um Ziele aufzusp\u00fcren und auszuschalten.<br/><li>Zu Beginn der Pr\u00fcfung werden dir die Auren aller \u00dcberlebenden f\u00fcr <span style=\"color: #e8c252;\"><b>7</b></span>/<span style=\"color: #199b1e;\"><b>8</b></span>/<span style=\"color: #ac3ee3;\"><b>9</b></span>\u00a0Sekunden angezeigt.</li><li>Immer wenn die Aura eines \u00dcberlebenden eine Zeitlang angezeigt wird, wird die Dauer um <b><span style=\"color: #ff8800;\">2 Sekunden</span></b> verl\u00e4ngert.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201e... wei\u00df, was er will, und h\u00f6rt nicht auf, bis er es bekommen hat.\u201c \u2013 Carlos Oliveira</span></i>\n</p>\n</li>",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Nemesis",
         "name": "T\u00f6dlicher Verfolger"
+    },
+    "No_Quarter": {
+        "desc": "Jedes Gefecht endete mit einer unnachgiebigen Salve von Kanonenkugeln, um keinen Zweifel daran zu lassen, wer \u00fcberlegen war.<br/><br/>Wenn ein \u00dcberlebender bei der Selbstheilung <b><span style=\"color: #e8c252;\">75\u00a0%</span></b> Heilungsfortschritt erreicht hat, muss er immer wieder F\u00e4higkeitschecks bestehen.<br/><br/>Wenn einer dieser F\u00e4higkeitschecks fehlschl\u00e4gt oder die Heilung unterbrochen wird, leidet der \u00dcberlebende f\u00fcr <span style=\"color: #e8c252;\"><b>20</b></span>/<span style=\"color: #199b1e;\"><b>25</b></span>/<span style=\"color: #ac3ee3;\"><b>30</b></span>\u00a0Sekunden unter dem Statuseffekt <b>Gebrochen</b>.\n<p><br/>\n<i><span style=\"color: #c39797;\">Gebrochen verhindert die Heilung von \u00dcberlebenden.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eFeuert noch eine Breitseite ab! H\u00f6rt erst auf, wenn die See sie verschlungen hat!\u201c \u2013 Portia Maye</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Kein_Quartier",
+        "name": "Kein Quartier"
     },
     "No_Way_Out": {
         "desc": "Du l\u00e4sst nicht jeden Dahergelaufenen in den VIP-Raum.<br/>Nachdem du einen \u00dcberlebenden zum ersten Mal festgehakt hast, erh\u00e4ltst du einen Z\u00e4hler f\u00fcr <i>Kein Ausweg</i>.<br/>Wenn der letzte Generator repariert wurde, blockiert der Entitus beide Schalter f\u00fcr das Ausgangstor f\u00fcr <b><span style=\"color: #e8c252;\">12 Sekunden</span></b> und zus\u00e4tzlich <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>9</b></span>/<span style=\"color: #ac3ee3;\"><b>12</b></span>\u00a0Sekunden pro Z\u00e4hler in deinem Besitz.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eDieses Ger\u00e4usch, wenn du blutest ... Ich will es noch mal h\u00f6ren.\u201c - Ji-Woon Hak</span></i>\n</p>\n",
@@ -310,7 +420,7 @@
         "name": "Pop Goes the Weasel"
     },
     "Predator": {
-        "desc": "Deine scharfsinnige Beobachtungsgabe erlaubt es dir, den Spuren fl\u00fcchtender \u00dcberlebender zu folgen.<br/><br/>Wenn ein \u00dcberlebender einer Jagd entkommt, wird seine Aura f\u00fcr <b><span style=\"color: #ac3ee3;\">6 Sekunden</span></b> angezeigt. Dieses Talent hat eine Abklingzeit von <span style=\"color: #e8c252;\"><b>60</b></span>/<span style=\"color: #199b1e;\"><b>50</b></span>/<span style=\"color: #ac3ee3;\"><b>40</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eH\u00f6re nicht auf, dich zu bewegen und hoffe, dass du der Bestie stets zwei Schritte voraus bist.\u201c -Notizbuch</span></i>\n</p>\n",
+        "desc": "Deine scharfsinnige Beobachtungsgabe erlaubt es dir, den Spuren fl\u00fcchtender \u00dcberlebender zu folgen.<br/><br/>Wenn ein \u00dcberlebender einer Jagd entkommt, wird seine Aura f\u00fcr <b><span style=\"color: #ac3ee3;\">4 Sekunden</span></b> angezeigt. Dieses Talent hat eine Abklingzeit von <span style=\"color: #e8c252;\"><b>60</b></span>/<span style=\"color: #199b1e;\"><b>50</b></span>/<span style=\"color: #ac3ee3;\"><b>40</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eH\u00f6re nicht auf, dich zu bewegen und hoffe, dass du der Bestie stets zwei Schritte voraus bist.\u201c -Notizbuch</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/R%C3%A4uber",
         "name": "R\u00e4uber"
     },
@@ -318,6 +428,11 @@
         "desc": "Ein \u00dcberlebender wird Ziel deiner <b>Besessenheit</b>.<br/>Jedes Mal, wenn ein Generator repariert wurde, sieht das Ziel deiner Besessenheit <span style=\"color: #e8c252;\"><b>5</b></span>/<span style=\"color: #199b1e;\"><b>4</b></span>/<span style=\"color: #ac3ee3;\"><b>3</b></span>\u00a0Sekunden lang deine Aura.<br/>Jedes Mal, wenn ein Generator vollst\u00e4ndig repariert wurde, werden dir die Aufenthaltsorte aller \u00dcberlebenden <b><span style=\"color: #ff8800;\">3 Sekunden</span></b> lang angezeigt.<br/>Sind die Ausgangstore mit Strom versorgt, erh\u00e4lt das Ziel deiner Besessenheit den Statuseffekt <b>Gef\u00e4hrdet</b> und du kannst diesen \u00dcberlebenden t\u00f6ten.\n<ul><li><i>Der Killer kann immer nur von je einem \u00dcberlebenden <b>besessen</b> sein.</i></li></ul>\n<p><br/>\n<i><span style=\"color: #c39797;\">Gef\u00e4hrdete \u00dcberlebende werden von Grundangriffen niedergestreckt, auch wenn sie nicht verletzt sind.</span></i><br/>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Hass",
         "name": "Hass"
+    },
+    "Rapid_Brutality": {
+        "desc": "Du bewegst dich mit einem Tempo und einer Vehemenz, die das Blut in den Adern deiner Beute gefrieren lassen.<br/><br/>Du kannst keinen Blutrausch mehr erhalten.<br/><br/>Wenn du einen \u00dcberlebenden mit einem Grundangriff triffst, erh\u00e4ltst du <b><span style=\"color: #ff8800;\">5\u00a0% Eile</span></b> f\u00fcr <span style=\"color: #e8c252;\"><b>8</b></span>/<span style=\"color: #199b1e;\"><b>9</b></span>/<span style=\"color: #ac3ee3;\"><b>10</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #c39797;\">Eile erh\u00f6ht die Bewegungsgeschwindigkeit des Killers.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eFangen, in die Luftschleuse stecken und loswerden.\u201c \u2013 Dallas</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/St%C3%BCrmische_Brutalit%C3%A4t",
+        "name": "St\u00fcrmische Brutalit\u00e4t"
     },
     "Remember_Me": {
         "desc": "Ein \u00dcberlebender wird Ziel deiner <b>Besessenheit</b>. Jedes Mal, wenn das Ziel deiner Besessenheit einen Gesundheitsstatus verliert, erh\u00e4ltst du einen Z\u00e4hler. Jeder Z\u00e4hler verl\u00e4ngert die \u00d6ffnungszeit der Ausgangstore um <b><span style=\"color: #ff8800;\">6 Sekunden</span></b>, bis zu einem H\u00f6chstwert von <span style=\"color: #e8c252;\"><b>12</b></span>/<span style=\"color: #199b1e;\"><b>18</b></span>/<span style=\"color: #ac3ee3;\"><b>24</b></span>.<br/>Das Ziel deiner Besessenheit ist von <i>Vergissmeinnicht</i> nicht betroffen.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eErinnerst du dich denn nicht? Du musst aber. Du bist meine Nummer eins und du wirst nie aufwachen.\u201c \u2013 Freddy Krueger</span></i>\n</p>\n",
@@ -329,6 +444,11 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Das_Beste_kommt_zum_Schluss",
         "name": "Das Beste kommt zum Schluss"
     },
+    "Scourge_Hook:_Floods_of_Rage": {
+        "desc": "Dein schreckliches Trauma l\u00e4sst du alle sp\u00fcren.<br/>Zu Beginn der Pr\u00fcfung werden bis zu <b><span style=\"color: #e8c252;\">4</span></b> zuf\u00e4llige Haken in Gei\u00dfelhaken verwandelt. Du siehst ihre Auren wei\u00df.<br/>Wenn ein \u00dcberlebender von einem Gei\u00dfelhaken gerettet wird, werden die Auren aller anderen \u00dcberlebenden f\u00fcr <span style=\"color: #e8c252;\"><b>5</b></span>/<span style=\"color: #199b1e;\"><b>6</b></span>/<span style=\"color: #ac3ee3;\"><b>7</b></span>\u00a0Sekunden angezeigt.\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Gei%C3%9Felhaken:_Fluten_des_Zorns",
+        "name": "Gei\u00dfelhaken: Fluten des Zorns"
+    },
     "Scourge_Hook:_Gift_of_Pain": {
         "desc": "Du verursachst s\u00fc\u00dfen Schmerz.<br/><br/>Zu Beginn der Pr\u00fcfung werden <b><span style=\"color: #ff8800;\">4</span></b>  zuf\u00e4llige Haken in Gei\u00dfelhaken verwandelt. Du siehst ihre Auren in Wei\u00df.<br/><br/>Wenn ein \u00dcberlebender von einem Gei\u00dfelhaken gerettet wird, leidet er unter den Statuseffekten <b>Blutung</b> und <b>Zerfleischt</b> f\u00fcr <b><span style=\"color: #e8c252;\">90 Sekunden</span></b>. Wenn der \u00dcberlebende das erste Mal geheilt wird, erleidet er eine Tempoverringerung von <span style=\"color: #e8c252;\"><b>10</b></span>/<span style=\"color: #199b1e;\"><b>13</b></span>/<span style=\"color: #ac3ee3;\"><b>16</b></span>\u00a0% bei Heilung und Reparatur, bis er erneut verletzt wird.\n<p><br/>\n<i><span style=\"color: #c39797;\">Blutung setzt den Heilungsfortschritt zur\u00fcck, wenn nicht gerade geheilt wird, und verst\u00e4rkt Blutspuren, die verletzte \u00dcberlebende hinterlassen. Dieser Effekt h\u00e4lt eine festgelegte Zeit oder bis zur vollst\u00e4ndigen Heilung an.</span></i><br/>\n<i><span style=\"color: #c39797;\">Zerfleischt erh\u00f6ht die Heilungsdauer um 25\u00a0% und h\u00e4lt eine festgelegte Zeit oder bis zur vollst\u00e4ndigen Heilung an.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eWir rei\u00dfen deine Seele in St\u00fccke.\u201c \u2013 Pinhead</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Gei%C3%9Felhaken:_Gabe_des_Schmerzes",
@@ -339,6 +459,11 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Henkerstreich",
         "name": "Gei\u00dfelhaken: Henkerstreich"
     },
+    "Scourge_Hook:_Jagged_Compass": {
+        "desc": "Manchmal zeigt die Kompassnadel nach Norden. Manchmal zeigt sie auch ganz woanders hin.<br/><br/>Zu Beginn der Pr\u00fcfung werden bis zu <b>4</b> zuf\u00e4llige Haken in Gei\u00dfelhaken verwandelt. Du siehst ihre Auren in Wei\u00df.<br/><br/>Wenn ein \u00dcberlebender von einem Haken gerettet wird, wird dieser zu einem Gei\u00dfelhaken.<br/><br/>Wenn du einen \u00dcberlebenden an einem Gei\u00dfelhaken festhakst, wird dir die Aura des Generators mit dem meisten Fortschritt f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>8</b></span>/<span style=\"color: #ac3ee3;\"><b>10</b></span>\u00a0Sekunden gelb angezeigt.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eWerft den Anker! Ich werde uns einen neuen Kurs suchen.\u201c \u2013 Portia Maye</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Gei%C3%9Felhaken:_Gezackter_Kompass",
+        "name": "Gei\u00dfelhaken: Gezackter Kompass"
+    },
     "Scourge_Hook:_Monstrous_Shrine": {
         "desc": "Deine hingebungsvolle Pflege der Haken im Keller hat das Interesse des Entitus geweckt.<br/>Zu Beginn der Pr\u00fcfung werden bis zu <b><span style=\"color: #e8c252;\">4</span></b> zuf\u00e4llige Haken in Gei\u00dfelhaken verwandelt. Ihre Auren werden wei\u00df angezeigt.<br/><li>Gei\u00dfelhaken gew\u00e4hren einen um <span style=\"color: #e8c252;\"><b>10</b></span>/<span style=\"color: #199b1e;\"><b>15</b></span>/<span style=\"color: #ac3ee3;\"><b>20</b></span>\u00a0% schnelleren Fortschritt des Entitus, wenn sich der Killer weiter als <b><span style=\"color: #ff8800;\">24 Meter</span></b> entfernt aufh\u00e4lt.</li><br/>Haken im Keller gelten als Gei\u00dfelhaken.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eSchlie\u00dflich wirst du wissen, dass es kein Entkommen gibt. In den Tiefen h\u00e4ngend, erblickst du den einen Dunklen.\u201c</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Monstr%C3%B6ser_Schrein",
@@ -348,6 +473,11 @@
         "desc": "\u00dcberw\u00e4ltigender Schmerz wird ins Chaos zur\u00fcckgeworfen.<br/>Zu Beginn der Pr\u00fcfung werden bis zu <b><span style=\"color: #e8c252;\">4</span></b> zuf\u00e4llige Haken in Gei\u00dfelhaken verwandelt. Du siehst ihre Auren in Wei\u00df.<br/>Du startest die Pr\u00fcfung mit 4 Z\u00e4hlern. Jedes Mal, wenn ein \u00dcberlebender zum ersten Mal an einem Gei\u00dfelhaken festgehakt wird, verlierst du 1 Z\u00e4hler und der Generator mit dem meisten Fortschritt explodiert. Sein Fortschritt wird sofort um <span style=\"color: #e8c252;\"><b>10</b></span>/<span style=\"color: #199b1e;\"><b>15</b></span>/<span style=\"color: #ac3ee3;\"><b>20</b></span>\u00a0% reduziert und nimmt dann weiter ab.<br/>Sobald du keine Z\u00e4hler mehr hast, wird \u201eSchmerzensecho\u201c f\u00fcr den Rest der Pr\u00fcfung deaktiviert.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eDer Schmerz dringt aus dem Fleisch/Dunkelheit befleckt den Horizont.\u201c \u2013 \u201eM\u00e4dchen im Schatten\u201c von Carmina Mora</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Gei%C3%9Felhaken:_Schmerzensecho",
         "name": "Gei\u00dfelhaken: Schmerzensecho"
+    },
+    "Septic_Touch": {
+        "desc": "Das Land der Schatten umfasst alles. Eine Heilung schiebt das Unvermeidliche nur auf.<br/>Immer wenn ein \u00dcberlebender eine Heilaktion innerhalb deines Terrorradius durchf\u00fchrt, erleidet dieser \u00dcberlebende <b>Erblindung</b> und <b>Ersch\u00f6pfung</b>.<br/>Diese Effekte halten <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>7</b></span>/<span style=\"color: #ac3ee3;\"><b>8</b></span>\u00a0Sekunden an, nachdem eine Heilung auf beliebige Art unterbrochen wurde.\n<p><br/>\n<i><span style=\"color: #c39797;\">Bei Erblindung k\u00f6nnen \u00dcberlebende keine Auren sehen.</span></i><br/>\n<i><span style=\"color: #c39797;\">Ersch\u00f6pfung hindert \u00dcberlebende daran, ersch\u00f6pfende Talente zu nutzen.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eGebt der Furcht, dem Schmerz oder dem Zweifel nicht nach. Dies sind die Samen, aus denen die Dunkelheit w\u00e4chst.\u201c \u2013 Otto Stamper</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Septische_Ber%C3%BChrung",
+        "name": "Septische Ber\u00fchrung"
     },
     "Shadowborn": {
         "desc": "Du hast eine scharfe Sicht im Dunkel der Nacht.<br/><br/>Wenn du auf irgendeine Weise <b>geblendet</b> wirst, erh\u00e4ltst du <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>8</b></span>/<span style=\"color: #ac3ee3;\"><b>10</b></span>\u00a0% <b>Eile</b> f\u00fcr <b><span style=\"color: #e8c252;\">10 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #c39797;\">Eile erh\u00f6ht die Bewegungsgeschwindigkeit des Killers.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eStrahlend in der finsteren Dunkelheit, durchbohren seine Augen die Nacht und brennen sich in deine Seele.\u201c</span></i>\n</p>\n",
@@ -384,10 +514,25 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Stridor",
         "name": "Stridor"
     },
+    "Superior_Anatomy": {
+        "desc": "Jahrzehnte der Forschung gipfelten in dir: etwas Schnelleres, St\u00e4rkeres und Gef\u00e4hrlicheres als jeder Mensch.<br/>Wenn ein \u00dcberlebender in einem Umkreis von <b><span style=\"color: #e8c252;\">8 Metern</span></b> von dir einen schnellen Sprung ausf\u00fchrt, wird dieses Talent aktiviert. Deine normale Sprunggeschwindigkeit ist f\u00fcr 3 Sekunden um <span style=\"color: #e8c252;\"><b>30</b></span>/<span style=\"color: #199b1e;\"><b>35</b></span>/<span style=\"color: #ac3ee3;\"><b>40</b></span>\u00a0% erh\u00f6ht.<br/>Dieses Talent wird deaktiviert, nachdem du durch ein Fenster gesprungen bist.<br/>Dieses Talent hat eine Abklingzeit von <b><span style=\"color: #d41c1c;\">30 Sekunden</span></b>.\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/%C3%9Cberlegene_Anatomie",
+        "name": "\u00dcberlegene Anatomie"
+    },
     "Surveillance": {
         "desc": "Schaltet das Potenzial der eigenen Aura-Lesef\u00e4higkeit frei. Alle zur\u00fcckgehenden Generatoren werden mit einer wei\u00dfen Aura hervorgehoben. Bei einer Unterbrechung des R\u00fcckgangs wird der jeweilige Generator f\u00fcr <span style=\"color: #e8c252;\"><b>8</b></span>/<span style=\"color: #199b1e;\"><b>12</b></span>/<span style=\"color: #ac3ee3;\"><b>16</b></span>\u00a0Sekunden mit einer gelben Aura hervorgehoben. Ger\u00e4usche, die bei der Reparatur von Generatoren entstehen, sind auf zus\u00e4tzliche <b><span style=\"color: #ff8800;\">8 Meter</span></b> zu h\u00f6ren.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eWirst du dich benehmen?\u201c -Amnda Young</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/%C3%9Cberwachung",
         "name": "\u00dcberwachung"
+    },
+    "THWACK!": {
+        "desc": "Bei deiner unnachgiebigen Verfolgungsjagd bekommt es deine Beute mit der Angst zu tun.<br/><br/><i>ZACK!</i> startet mit <b><span style=\"color: #ac3ee3;\">3 Z\u00e4hlern</span></b>.<br/><br/>Wenn du eine Palette oder zerst\u00f6rbare Mauer zerst\u00f6rst, wird ein Z\u00e4hler verbraucht.<br/><br/>\u00dcberlebende in einem Umkreis von <b><span style=\"color: #ff8800;\">24 Metern</span></b> schreien und geben so ihre Position f\u00fcr <span style=\"color: #e8c252;\"><b>3</b></span>/<span style=\"color: #199b1e;\"><b>4</b></span>/<span style=\"color: #ac3ee3;\"><b>5</b></span>\u00a0Sekunden preis.<br/><br/>Wenn du einen \u00dcberlebenden festhakst, erh\u00e4ltst du <b><span style=\"color: #e8c252;\">1 Z\u00e4hler</span></b>\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eAlle, die ihr im Weg standen, f\u00fcrchteten ihr m\u00e4chtiges ZACK!\u201c \u2013 Sonhadores Sombrios, Heft Nr. 3</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/ZACK!",
+        "name": "ZACK!"
+    },
+    "Terminus": {
+        "desc": "Du bist ein genialer Taktiker und bereitest dich auf alle Eventualit\u00e4ten vor.<br/>Sobald die Ausgangstore mit Strom versorgt sind, wird dieses Talent aktiviert. Verletzte, niedergestreckte und festgehakte \u00dcberlebende leiden am Statuseffekt \u201eGebrochen\u201c, bis sich die Ausgangstore \u00f6ffnen.<br/>Wenn die Ausgangstore ge\u00f6ffnet sind, bleiben die \u00dcberlebenden f\u00fcr zus\u00e4tzliche <span style=\"color: #e8c252;\"><b>20</b></span>/<span style=\"color: #199b1e;\"><b>25</b></span>/<span style=\"color: #ac3ee3;\"><b>30</b></span>\u00a0Sekunden gebrochen.\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Endstation",
+        "name": "Endstation"
     },
     "Territorial_Imperative": {
         "desc": "Entfesselt das Potenzial der Aurawahrnehmungsf\u00e4higkeit. Auren \u00dcberlebender werden dir <span style=\"color: #e8c252;\"><b>4</b></span>/<span style=\"color: #199b1e;\"><b>5</b></span>/<span style=\"color: #ac3ee3;\"><b>6</b></span>\u00a0Sekunden lang angezeigt, wenn sie den Keller betreten und du mehr als <b><span style=\"color: #e8c252;\">24 Meter</span></b> vom Kellereingang entfernt bist.<br/><i>Gebietszwang</i> kann immer nur alle <b><span style=\"color: #ff8800;\">45 Sekunden</span></b> aktiviert werden.\n",
@@ -414,6 +559,11 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Pfad_der_Folter",
         "name": "Pfad der Folter"
     },
+    "Ultimate_Weapon": {
+        "desc": "Wenn sie dich sehen, wissen sie, dass das Ende nah ist.<br/><br/>\u00dcberlebende in einem Umkreis von <b><span style=\"color: #ff8800;\">32 Metern</span></b> schreien und enth\u00fcllen ihren Aufenthaltsort und leiden <b><span style=\"color: #d41c1c;\">30 Sekunden</span></b> lang unter <b>Erblindung</b>.<br/><br/>Dieses Talent hat eine Abklingzeit von <span style=\"color: #e8c252;\"><b>80</b></span>/<span style=\"color: #199b1e;\"><b>70</b></span>/<span style=\"color: #ac3ee3;\"><b>60</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #c39797;\">Bei Erblindung k\u00f6nnen \u00dcberlebende keine Auren sehen.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eIch kann Ihnen nichts vormachen, was Ihre Chancen angeht. Aber: Sie haben mein Mitgef\u00fchl.\u201c \u2013 Ash</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Ultimative_Waffe",
+        "name": "Ultimative Waffe"
+    },
     "Unforeseen": {
         "desc": "Das Grauen kann vielerlei Gestalt annehmen und seinen Opfern vernichtende L\u00fcgen einfl\u00fcstern.<br/><br/>Wenn du einen Generator besch\u00e4digst, wird dein Terrorradius f\u00fcr <span style=\"color: #e8c252;\"><b>18</b></span>/<span style=\"color: #199b1e;\"><b>24</b></span>/<span style=\"color: #ac3ee3;\"><b>30</b></span>\u00a0Sekunden auf den Generator \u00fcbertragen. Au\u00dferdem wird die Gr\u00f6\u00dfe deines Terrorradius um <b><span style=\"color: #e8c252;\">32 Meter</span></b> erh\u00f6ht.<br/><br/>F\u00fcr die gesamte Dauer bist du <b>Unentdeckbar</b>.<br/><br/>Dieses Talent hat anschlie\u00dfend eine Abklingzeit von <b><span style=\"color: #d41c1c;\">30 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #c39797;\">Unentdeckbar verbirgt Aura, Terrorradius und roten Fleck des Killers.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eEs k\u00f6nnte \u00fcberall sein. Mama, wenn du das liest: Es tut mir leid ...\u201c Letzter Tagebucheintrag, 12.07.1991</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Unerwartet",
@@ -429,13 +579,18 @@
         "link": "https://deadbydaylight.fandom.com/de/wiki/Unerbittlich",
         "name": "Unerbittlich"
     },
+    "Weave_Attunement": {
+        "desc": "Du hast ein so gro\u00dfes Feingef\u00fchl f\u00fcr magische Energien, dass du selbst kleine Schwankungen bei Zaubern sp\u00fcren kannst.<br/><br/>Wenn ein \u00dcberlebenden-Gegenstand zum ersten Mal verbraucht ist, wird er fallen gelassen. Du siehst die Auren von fallen gelassenen Gegenst\u00e4nden. <br/><br/>Du siehst die Auren von \u00dcberlebenden in einem Umkreis von <b><span style=\"color: #e8c252;\">8 Metern</span></b> rund um fallen gelassene Gegenst\u00e4nde.<br/><br/>Wenn ein \u00dcberlebender einen \u00dcberlebenden-Gegenstand aufhebt, leidet er <span style=\"color: #e8c252;\"><b>20</b></span>/<span style=\"color: #199b1e;\"><b>25</b></span>/<span style=\"color: #ac3ee3;\"><b>30</b></span>\u00a0Sekunden lang unter dem Statuseffekt \u201eAhnungslos\u201c.\n<p><br/>\n<i><span style=\"color: #c39797;\">Ahnungslos verhindert, dass \u00dcberlebende den Terrorradius des Killers h\u00f6ren oder davon betroffen sind.</span></i><br/>\n<i><span style=\"color: #877E71;\">\u201eEgal, wie viele neue Gegenst\u00e4nde ihr findet, nichts kann euch vor mir sch\u00fctzen!\u201c\u00a0\u2013 Vecna</span></i>\n</p>\n",
+        "link": "https://deadbydaylight.fandom.com/de/wiki/Verwobene_Einstimmung",
+        "name": "Verwobene Einstimmung"
+    },
     "Whispers": {
         "desc": "Du hast eine ansatzweise Ahnung von der Stimme des Entitus. H\u00f6re vereinzelt das Fl\u00fcstern des Entitus, wenn du im Umkreis von <span style=\"color: #e8c252;\"><b>48</b></span>/<span style=\"color: #199b1e;\"><b>40</b></span>/<span style=\"color: #ac3ee3;\"><b>32</b></span>\u00a0Metern eines \u00dcberlebenden stehst.\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Gefl%C3%BCster",
         "name": "Gefl\u00fcster"
     },
     "Zanshin_Tactics": {
-        "desc": "Du bist geistig hellwach und registrierst nahe Gegner, die sich zur\u00fcckziehen.<br/><br/>Die Auren von Paletten und Fenstern werden dir innerhalb von <b><span style=\"color: #e8c252;\">32 Metern</span></b> angezeigt. Immer wenn ein \u00dcberlebender eine Palette fallen l\u00e4sst, wird seine Aura f\u00fcr <span style=\"color: #e8c252;\"><b>6</b></span>/<span style=\"color: #199b1e;\"><b>7</b></span>/<span style=\"color: #ac3ee3;\"><b>8</b></span>\u00a0Sekunden angezeigt.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eIn der St\u00e4rke deines Feindes liegt Schw\u00e4che.\" -Renjiros Doktrin 12, 5</span></i>\n</p>\n",
+        "desc": "Du bist geistig hellwach und registrierst nahe Gegner, die sich zur\u00fcckziehen.<br/><br/>Du enth\u00fcllst die Auren von Paletten und Sprungpositionen in einem Umkreis von <b><span style=\"color: #e8c252;\">32 Metern</span></b>. \u00dcberlebende, die eine Palette umsto\u00dfen, werden dir f\u00fcr <span style=\"color: #e8c252;\"><b>3</b></span>/<span style=\"color: #199b1e;\"><b>4</b></span>/<span style=\"color: #ac3ee3;\"><b>5</b></span>\u00a0Sekunden angezeigt.\n<p><br/>\n<i><span style=\"color: #877E71;\">\u201eIn der St\u00e4rke deines Feindes liegt Schw\u00e4che.\" -Renjiros Doktrin 12, 5</span></i>\n</p>\n",
         "link": "https://deadbydaylight.fandom.com/de/wiki/Zanshin-Taktik",
         "name": "Zanshin-Taktik"
     }
