@@ -663,7 +663,7 @@
                 "rarity": "common"
             },
             "Chatterer's_Tooth": {
-                "description": "A fragment from a Cenobite whose mouth chatters endlessly.<br/>This tooth, having broken from his jaw, is finally silent.\n<ul><li>Grants the ability to see the <a class=\"mw-redirect\" href=\"/wiki/Aura\" title=\"Aura\">Aura</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 0\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"64\" loading=\"lazy\" src=\"images/icons/64px-IconHelp_auras.png\" width=\"64\"/></a></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconHelp_auras.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconHelp_auras.png\" width=\"32\"/></a></span></span> of the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span>.</li>\n<li>Picking up the <b>Lament Configuration</b> deactivates an on-going <i>Chain Hunt</i> and grants the <i><b><a class=\"mw-redirect\" href=\"/wiki/Undetectable\" title=\"Undetectable\">Undetectable</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 0\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><a href=\"/wiki/Undetectable\" title=\"Undetectable\"><img alt=\"IconStatusEffects undetectable.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"64\" loading=\"lazy\" src=\"images/icons/64px-IconStatusEffects_undetectable.png\" width=\"64\"/></a></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Undetectable\" title=\"Undetectable\"><img alt=\"IconStatusEffects undetectable.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_undetectable.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Undetectable\" title=\"Undetectable\"><img alt=\"IconStatusEffects undetectable.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconStatusEffects_undetectable.png\" width=\"32\"/></a></span></span></b></i> <b>Status Effect</b> for <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">25 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "A fragment from a Cenobite whose mouth chatters endlessly.<br/>This tooth, having broken from his jaw, is finally silent.\n<ul><li>Grants the ability to see the <a class=\"mw-redirect\" href=\"/wiki/Aura\" title=\"Aura\">Aura</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 0\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"64\" loading=\"lazy\" src=\"images/icons/64px-IconHelp_auras.png\" width=\"64\"/></a></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconHelp_auras.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconHelp_auras.png\" width=\"32\"/></a></span></span> of the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span class=\"scenario3\" style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span>.</li>\n<li>Picking up the <b>Lament Configuration</b> deactivates an on-going <i>Chain Hunt</i> and grants the <i><b><a class=\"mw-redirect\" href=\"/wiki/Undetectable\" title=\"Undetectable\">Undetectable</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 0\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><a href=\"/wiki/Undetectable\" title=\"Undetectable\"><img alt=\"IconStatusEffects undetectable.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"64\" loading=\"lazy\" src=\"images/icons/64px-IconStatusEffects_undetectable.png\" width=\"64\"/></a></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Undetectable\" title=\"Undetectable\"><img alt=\"IconStatusEffects undetectable.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_undetectable.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Undetectable\" title=\"Undetectable\"><img alt=\"IconStatusEffects undetectable.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconStatusEffects_undetectable.png\" width=\"32\"/></a></span></span></b></i> <b>Status Effect</b> for <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">25 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/cenobite/chatterers-tooth_icon.png",
                 "img_alt": "Chattererstooth.png",
                 "img_path": "data/images/addons/cenobite/chatterers-tooth.png",
@@ -723,7 +723,7 @@
                 "rarity": "very-rare"
             },
             "Iridescent_Lament_Configuration": {
-                "description": "A glass-like puzzle box moulded from The Fog itself.<br/>This replica differs from the original, providing altogether new powers.\n<ul><li><b>Shields</b> the <a class=\"mw-redirect\" href=\"/wiki/Aura\" title=\"Aura\">Aura</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 0\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"64\" loading=\"lazy\" src=\"images/icons/64px-IconHelp_auras.png\" width=\"64\"/></a></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconHelp_auras.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconHelp_auras.png\" width=\"32\"/></a></span></span> of the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span> from Survivors who are farther than <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">24 metres</span></b> from it outside of a <i>Chain Hunt</i>.</li></ul>\n<p><i><span class=\"luaClr clr clr9\" style=\"color: #e7cda2;\">\"You opened it. We came.\" \u2014 Pinhead</span></i>\n</p>\n",
+                "description": "A glass-like puzzle box moulded from The Fog itself.<br/>This replica differs from the original, providing altogether new powers.\n<ul><li><b>Shields</b> the <a class=\"mw-redirect\" href=\"/wiki/Aura\" title=\"Aura\">Aura</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 0\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"64\" loading=\"lazy\" src=\"images/icons/64px-IconHelp_auras.png\" width=\"64\"/></a></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconHelp_auras.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Aura\" title=\"Aura\"><img alt=\"IconHelp auras.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconHelp_auras.png\" width=\"32\"/></a></span></span> of the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span class=\"scenario3\" style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span> from Survivors who are farther than <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">24 metres</span></b> from it outside of a <i>Chain Hunt</i>.</li></ul>\n<p><i><span class=\"luaClr clr clr9\" style=\"color: #e7cda2;\">\"You opened it. We came.\" \u2014 Pinhead</span></i>\n</p>\n",
                 "icon": "data/images/addons/cenobite/iridescent-lament-configuration_icon.png",
                 "img_alt": "Iridescentlamentconfiguration.png",
                 "img_path": "data/images/addons/cenobite/iridescent-lament-configuration.png",
@@ -743,7 +743,7 @@
                 "rarity": "rare"
             },
             "Larry's_Remains": {
-                "description": "The skeletal remains of Larry Cotton, covered in a thick, sticky layer of blood.\n<ul><li><b>Increases</b> the Solving time of the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+2 seconds</span></b>.</li></ul>\n<p><i><span class=\"luaClr clr clr9\" style=\"color: #e7cda2;\">\"We want the man who did this.\" \u2014 Pinhead</span></i>\n</p>\n",
+                "description": "The skeletal remains of Larry Cotton, covered in a thick, sticky layer of blood.\n<ul><li><b>Increases</b> the Solving time of the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span class=\"scenario3\" style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+2 seconds</span></b>.</li></ul>\n<p><i><span class=\"luaClr clr clr9\" style=\"color: #e7cda2;\">\"We want the man who did this.\" \u2014 Pinhead</span></i>\n</p>\n",
                 "icon": "data/images/addons/cenobite/larrys-remains_icon.png",
                 "img_alt": "Larrysremains.png",
                 "img_path": "data/images/addons/cenobite/larrys-remains.png",
@@ -763,7 +763,7 @@
                 "rarity": "common"
             },
             "Liquified_Gore": {
-                "description": "The result of summoning the Cenobites.<br/>There is no telling what part of the human body this belonged to.\n<ul><li><b>Increases</b> the Solving time of the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+1 second</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "The result of summoning the Cenobites.<br/>There is no telling what part of the human body this belonged to.\n<ul><li><b>Increases</b> the Solving time of the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span class=\"scenario3\" style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+1 second</span></b>.</li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/cenobite/liquified-gore_icon.png",
                 "img_alt": "Liquifiedgore.png",
                 "img_path": "data/images/addons/cenobite/liquified-gore.png",
@@ -803,7 +803,7 @@
                 "rarity": "uncommon"
             },
             "Slice_of_Frank": {
-                "description": "A slab of Frank's face after his torture at the hand of the Cenobites.\n<ul><li>Survivors suffer from the <i><b><a class=\"mw-redirect\" href=\"/wiki/Exhausted\" title=\"Exhausted\">Exhausted</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 0\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><a href=\"/wiki/Exhausted\" title=\"Exhausted\"><img alt=\"IconStatusEffects exhausted.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"64\" loading=\"lazy\" src=\"images/icons/64px-IconStatusEffects_exhausted.png\" width=\"64\"/></a></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Exhausted\" title=\"Exhausted\"><img alt=\"IconStatusEffects exhausted.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_exhausted.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Exhausted\" title=\"Exhausted\"><img alt=\"IconStatusEffects exhausted.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconStatusEffects_exhausted.png\" width=\"32\"/></a></span></span></b></i> <b>Status Effect</b> while carrying the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span>.</li></ul>\n<p><i><span class=\"luaClr clr clr9\" style=\"color: #e7cda2;\">\"The Cenobites gave me an experience beyond limits. Pain and pleasure, indivisible.\" \u2014 Frank Cotton</span></i>\n</p>\n",
+                "description": "A slab of Frank's face after his torture at the hand of the Cenobites.\n<ul><li>Survivors suffer from the <i><b><a class=\"mw-redirect\" href=\"/wiki/Exhausted\" title=\"Exhausted\">Exhausted</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 0\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><a href=\"/wiki/Exhausted\" title=\"Exhausted\"><img alt=\"IconStatusEffects exhausted.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"64\" loading=\"lazy\" src=\"images/icons/64px-IconStatusEffects_exhausted.png\" width=\"64\"/></a></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Exhausted\" title=\"Exhausted\"><img alt=\"IconStatusEffects exhausted.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_exhausted.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Exhausted\" title=\"Exhausted\"><img alt=\"IconStatusEffects exhausted.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconStatusEffects_exhausted.png\" width=\"32\"/></a></span></span></b></i> <b>Status Effect</b> while carrying the <a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\">Lament Configuration</a><span class=\"iconLink\" style=\"vertical-align: middle; padding: 0 0 0 4px\"><span class=\"pcView pcIconLink\" style=\"width:32px;max-height: 32px\"><span class=\"tooltip linkIncluded borderless\"><span class=\"tooltipBaseText iconless\"><span class=\"scenario3\" style=\"display:inline-flex; vertical-align: middle; position:relative; height: 32px; width: 32px\"><span class=\"margin-auto\" style=\"display: inline-flex; position: absolute; top: 0px; max-width: 32px;\"><span class=\"game-element-container flex relative\"><span class=\"game-element-bg-settings game-element-bg-settings-size-perk limited-item-element\" style=\"width: 32px; height: 32px;\"></span><span class=\"game-element-bg-settings-size-sos absolute\" style=\"width: 32px; height: 32px;\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"300\" loading=\"lazy\" src=\"images/icons/IconItems_lamentConfiguration.png\" width=\"300\"/></a></span></span></span></span></span><span class=\"tooltiptext flex flexCenter\"><span class=\"tooltipTextWrapper\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconItems_lamentConfiguration.png\" width=\"96\"/></a></span></span></span></span><span class=\"mobileView mobileIconLink\"><a href=\"/wiki/Lament_Configuration\" title=\"Lament Configuration\"><img alt=\"IconItems lamentConfiguration.png\" data-file-height=\"256\" data-file-width=\"256\" decoding=\"async\" height=\"32\" loading=\"lazy\" src=\"images/icons/32px-IconItems_lamentConfiguration.png\" width=\"32\"/></a></span></span>.</li></ul>\n<p><i><span class=\"luaClr clr clr9\" style=\"color: #e7cda2;\">\"The Cenobites gave me an experience beyond limits. Pain and pleasure, indivisible.\" \u2014 Frank Cotton</span></i>\n</p>\n",
                 "icon": "data/images/addons/cenobite/slice-of-frank_icon.png",
                 "img_alt": "Sliceoffrank.png",
                 "img_path": "data/images/addons/cenobite/slice-of-frank.png",
@@ -3436,17 +3436,17 @@
                 "icon": "data/images/addons/houndmaster/barley-meal_icon.png",
                 "img_alt": "Barleymeal.png",
                 "img_path": "data/images/addons/houndmaster/barley-meal.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/b/bc/IconAddon_barleyMeal.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/b/bc/IconAddon_barleyMeal.png?7d36b3",
                 "link": "/wiki/Barley_Meal",
                 "name": "Barley Meal",
                 "rarity": "uncommon"
             },
             "Belaying_Pins": {
-                "description": "Ideal for holding rope, securing knots, and rigging sails.\n<ul><li>Causes Survivors affected by <i>Houndsense</i> to also suffer from the <i><b><a class=\"mw-redirect\" href=\"/wiki/Oblivious\" title=\"Oblivious\">Oblivious</a></b></i><span class=\"iconLink debuff effect-wrapper\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 20s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_oblivious.png\"><img alt=\"IconStatusEffects oblivious.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_oblivious.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effect</b> for <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">20 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "Ideal for holding rope, securing knots, and rigging sails.\n<ul><li>Causes Survivors affected by <i>Houndsense</i> to also suffer from the <i><b><a class=\"mw-redirect\" href=\"/wiki/Oblivious\" title=\"Oblivious\">Oblivious</a></b></i><span class=\"iconLink debuff effect-wrapper scenario6\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 20s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_oblivious.png\"><img alt=\"IconStatusEffects oblivious.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_oblivious.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effect</b> for <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">20 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/houndmaster/belaying-pins_icon.png",
                 "img_alt": "Belayingpins.png",
                 "img_path": "data/images/addons/houndmaster/belaying-pins.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/a/a8/IconAddon_belayingPins.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/a/a8/IconAddon_belayingPins.png?bfd291",
                 "link": "/wiki/Belaying_Pins",
                 "name": "Belaying Pins",
                 "rarity": "uncommon"
@@ -3456,7 +3456,7 @@
                 "icon": "data/images/addons/houndmaster/creatures-bone_icon.png",
                 "img_alt": "Creaturesbone.png",
                 "img_path": "data/images/addons/houndmaster/creatures-bone.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/6/68/IconAddon_creaturesBone.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/6/68/IconAddon_creaturesBone.png?7250ce",
                 "link": "/wiki/Creature%27s_Bone",
                 "name": "Creature's Bone",
                 "rarity": "common"
@@ -3466,7 +3466,7 @@
                 "icon": "data/images/addons/houndmaster/fatty-meat_icon.png",
                 "img_alt": "Fattymeat.png",
                 "img_path": "data/images/addons/houndmaster/fatty-meat.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/7/74/IconAddon_fattyMeat.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/7/74/IconAddon_fattyMeat.png?1efc7e",
                 "link": "/wiki/Fatty_Meat",
                 "name": "Fatty Meat",
                 "rarity": "rare"
@@ -3476,17 +3476,17 @@
                 "icon": "data/images/addons/houndmaster/gunpowder-tin_icon.png",
                 "img_alt": "Gunpowdertin.png",
                 "img_path": "data/images/addons/houndmaster/gunpowder-tin.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/9/90/IconAddon_gunpowderTin.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/9/90/IconAddon_gunpowderTin.png?847ecf",
                 "link": "/wiki/Gunpowder_Tin",
                 "name": "Gunpowder Tin",
                 "rarity": "very-rare"
             },
             "Iridescent_Wheel_Handle": {
-                "description": "Once used to guide a greast vessel across the open seas, its remnants now serve as a memory of times past.\n<ul><li><b>Increases</b> the Linger duration of <b>The Dog</b> at the <i>Target Location</i> of the <i>Search Command</i> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+20\u00a0%</span></b>.</li>\n<li>Grants the <i><b><a class=\"mw-redirect\" href=\"/wiki/Undetectable\" title=\"Undetectable\">Undetectable</a></b></i><span class=\"iconLink buff effect-wrapper\" style=\"--status-effect-main-size: 48px;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_undetectable.png\"><img alt=\"IconStatusEffects undetectable.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_undetectable.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\" style=\"display: none\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effect</b> while <b>The Dog</b> fulfils the <i>Search Command</i>.\n<ul><li>Touching the <i>Search Path</i> as <b>The Houndmaster</b> immediately removes the <b>Status Effect</b>.</li></ul></li></ul>\n<p><i><span class=\"luaClr clr clr9\" style=\"color: #e7cda2;\">\"I fear no obstacle, be it man or storm.\" \u2014 Portia Maye</span></i>\n</p>\n",
+                "description": "Once used to guide a greast vessel across the open seas, its remnants now serve as a memory of times past.\n<ul><li><b>Increases</b> the Linger duration of <b>The Dog</b> at the <i>Target Location</i> of the <i>Search Command</i> by <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">+20\u00a0%</span></b>.</li>\n<li>Grants the <i><b><a class=\"mw-redirect\" href=\"/wiki/Undetectable\" title=\"Undetectable\">Undetectable</a></b></i><span class=\"iconLink buff effect-wrapper scenario6\" style=\"--status-effect-main-size: 48px;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_undetectable.png\"><img alt=\"IconStatusEffects undetectable.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_undetectable.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\" style=\"display: none\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effect</b> while <b>The Dog</b> fulfils the <i>Search Command</i>.\n<ul><li>Touching the <i>Search Path</i> as <b>The Houndmaster</b> immediately removes the <b>Status Effect</b>.</li></ul></li></ul>\n<p><i><span class=\"luaClr clr clr9\" style=\"color: #e7cda2;\">\"I fear no obstacle, be it man or storm.\" \u2014 Portia Maye</span></i>\n</p>\n",
                 "icon": "data/images/addons/houndmaster/iridescent-wheel-handle_icon.png",
                 "img_alt": "Iridescentwheelhandle.png",
                 "img_path": "data/images/addons/houndmaster/iridescent-wheel-handle.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/6/66/IconAddon_iridescentWheelHandle.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/6/66/IconAddon_iridescentWheelHandle.png?31a79f",
                 "link": "/wiki/Iridescent_Wheel_Handle",
                 "name": "Iridescent Wheel Handle",
                 "rarity": "ultra-rare"
@@ -3496,7 +3496,7 @@
                 "icon": "data/images/addons/houndmaster/knotted-rope_icon.png",
                 "img_alt": "Knottedrope.png",
                 "img_path": "data/images/addons/houndmaster/knotted-rope.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/a/a6/IconAddon_knottedRope.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/a/a6/IconAddon_knottedRope.png?de5f57",
                 "link": "/wiki/Knotted_Rope",
                 "name": "Knotted Rope",
                 "rarity": "uncommon"
@@ -3506,7 +3506,7 @@
                 "icon": "data/images/addons/houndmaster/leather-harness_icon.png",
                 "img_alt": "Leatherharness.png",
                 "img_path": "data/images/addons/houndmaster/leather-harness.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/f/fc/IconAddon_leatherHarness.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/f/fc/IconAddon_leatherHarness.png?dfa46e",
                 "link": "/wiki/Leather_Harness",
                 "name": "Leather Harness",
                 "rarity": "very-rare"
@@ -3516,7 +3516,7 @@
                 "icon": "data/images/addons/houndmaster/marlinspike_icon.png",
                 "img_alt": "Marlinspike.png",
                 "img_path": "data/images/addons/houndmaster/marlinspike.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/1/18/IconAddon_marlinspike.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/1/18/IconAddon_marlinspike.png?715b8a",
                 "link": "/wiki/Marlinspike",
                 "name": "Marlinspike",
                 "rarity": "very-rare"
@@ -3526,7 +3526,7 @@
                 "icon": "data/images/addons/houndmaster/ship-figurehead_icon.png",
                 "img_alt": "Shipfigurehead.png",
                 "img_path": "data/images/addons/houndmaster/ship-figurehead.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/0/03/IconAddon_shipFigurehead.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/0/03/IconAddon_shipFigurehead.png?7cfbfb",
                 "link": "/wiki/Ship_Figurehead",
                 "name": "Ship Figurehead",
                 "rarity": "very-rare"
@@ -3536,17 +3536,17 @@
                 "icon": "data/images/addons/houndmaster/smoked-snapper_icon.png",
                 "img_alt": "Smokedsnapper.png",
                 "img_path": "data/images/addons/houndmaster/smoked-snapper.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/a/a9/IconAddon_smokedSnapper.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/a/a9/IconAddon_smokedSnapper.png?7e39ed",
                 "link": "/wiki/Smoked_Snapper",
                 "name": "Smoked Snapper",
                 "rarity": "uncommon"
             },
             "Spiked_Collar": {
-                "description": "A dangerous accessory worn by dogs sent to battle.\n<ul><li>Causes Survivors becoming injured while they were grabbed by <b>The Dog</b> to suffer from the <i><b><a class=\"mw-redirect\" href=\"/wiki/Haemorrhage\" title=\"Haemorrhage\">Haemorrhage</a></b></i><span class=\"iconLink debuff effect-wrapper\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 60s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_bleeding.png\"><img alt=\"IconStatusEffects bleeding.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_bleeding.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> and <i><b><a class=\"mw-redirect\" href=\"/wiki/Mangled\" title=\"Mangled\">Mangled</a></b></i><span class=\"iconLink debuff effect-wrapper\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 60s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_mangled.png\"><img alt=\"IconStatusEffects mangled.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_mangled.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effects</b> for <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">60 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "A dangerous accessory worn by dogs sent to battle.\n<ul><li>Causes Survivors becoming injured while they were grabbed by <b>The Dog</b> to suffer from the <i><b><a class=\"mw-redirect\" href=\"/wiki/Haemorrhage\" title=\"Haemorrhage\">Haemorrhage</a></b></i><span class=\"iconLink debuff effect-wrapper scenario6\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 60s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_bleeding.png\"><img alt=\"IconStatusEffects bleeding.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_bleeding.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> and <i><b><a class=\"mw-redirect\" href=\"/wiki/Mangled\" title=\"Mangled\">Mangled</a></b></i><span class=\"iconLink debuff effect-wrapper scenario6\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 60s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_mangled.png\"><img alt=\"IconStatusEffects mangled.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_mangled.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effects</b> for <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">60 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/houndmaster/spiked-collar_icon.png",
                 "img_alt": "Spikedcollar.png",
                 "img_path": "data/images/addons/houndmaster/spiked-collar.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/6/60/IconAddon_spikedCollar.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/6/60/IconAddon_spikedCollar.png?3e0946",
                 "link": "/wiki/Spiked_Collar",
                 "name": "Spiked Collar",
                 "rarity": "rare"
@@ -3556,7 +3556,7 @@
                 "icon": "data/images/addons/houndmaster/spyglass_icon.png",
                 "img_alt": "Spyglass.png",
                 "img_path": "data/images/addons/houndmaster/spyglass.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/9/94/IconAddon_spyglass.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/9/94/IconAddon_spyglass.png?6a6e4f",
                 "link": "/wiki/Spyglass",
                 "name": "Spyglass",
                 "rarity": "uncommon"
@@ -3566,7 +3566,7 @@
                 "icon": "data/images/addons/houndmaster/sticky-pitch_icon.png",
                 "img_alt": "Stickypitch.png",
                 "img_path": "data/images/addons/houndmaster/sticky-pitch.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/2/26/IconAddon_stickyPitch.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/2/26/IconAddon_stickyPitch.png?88e68e",
                 "link": "/wiki/Sticky_Pitch",
                 "name": "Sticky Pitch",
                 "rarity": "common"
@@ -3576,7 +3576,7 @@
                 "icon": "data/images/addons/houndmaster/torn-novel_icon.png",
                 "img_alt": "Tornnovel.png",
                 "img_path": "data/images/addons/houndmaster/torn-novel.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/f/fc/IconAddon_tornNovel.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/f/fc/IconAddon_tornNovel.png?621bd0",
                 "link": "/wiki/Torn_Novel",
                 "name": "Torn Novel",
                 "rarity": "ultra-rare"
@@ -3586,7 +3586,7 @@
                 "icon": "data/images/addons/houndmaster/trainers-book_icon.png",
                 "img_alt": "Trainersbook.png",
                 "img_path": "data/images/addons/houndmaster/trainers-book.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/d/d0/IconAddon_trainersBook.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/d/d0/IconAddon_trainersBook.png?c8bedc",
                 "link": "/wiki/Trainer%27s_Book",
                 "name": "Trainer's Book",
                 "rarity": "common"
@@ -3596,17 +3596,17 @@
                 "icon": "data/images/addons/houndmaster/training-bell_icon.png",
                 "img_alt": "Trainingbell.png",
                 "img_path": "data/images/addons/houndmaster/training-bell.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/0/03/IconAddon_trainingBell.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/0/03/IconAddon_trainingBell.png?50699d",
                 "link": "/wiki/Training_Bell",
                 "name": "Training Bell",
                 "rarity": "rare"
             },
             "Unfinished_Map": {
-                "description": "Features details on the area that would come to be known as the Bermuda Triangle.\n<ul><li>Causes Survivors affected by <i>Houndsense</i> to also suffer from the <i><b><a class=\"mw-redirect\" href=\"/wiki/Exhausted\" title=\"Exhausted\">Exhausted</a></b></i><span class=\"iconLink debuff effect-wrapper\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 15s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_exhausted.png\"><img alt=\"IconStatusEffects exhausted.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_exhausted.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effect</b> for <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">15 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "Features details on the area that would come to be known as the Bermuda Triangle.\n<ul><li>Causes Survivors affected by <i>Houndsense</i> to also suffer from the <i><b><a class=\"mw-redirect\" href=\"/wiki/Exhausted\" title=\"Exhausted\">Exhausted</a></b></i><span class=\"iconLink debuff effect-wrapper scenario6\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 15s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_exhausted.png\"><img alt=\"IconStatusEffects exhausted.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_exhausted.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effect</b> for <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">15 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/houndmaster/unfinished-map_icon.png",
                 "img_alt": "Unfinishedmap.png",
                 "img_path": "data/images/addons/houndmaster/unfinished-map.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/e/ee/IconAddon_unfinishedMap.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/e/ee/IconAddon_unfinishedMap.png?6ec148",
                 "link": "/wiki/Unfinished_Map",
                 "name": "Unfinished Map",
                 "rarity": "rare"
@@ -3616,7 +3616,7 @@
                 "icon": "data/images/addons/houndmaster/waterskin_icon.png",
                 "img_alt": "Waterskin.png",
                 "img_path": "data/images/addons/houndmaster/waterskin.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/9/93/IconAddon_waterskin.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/9/93/IconAddon_waterskin.png?3908f9",
                 "link": "/wiki/Waterskin",
                 "name": "Waterskin",
                 "rarity": "rare"
@@ -3626,7 +3626,7 @@
                 "icon": "data/images/addons/houndmaster/young-coconut_icon.png",
                 "img_alt": "Youngcoconut.png",
                 "img_path": "data/images/addons/houndmaster/young-coconut.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/b/b7/IconAddon_youngCoconut.png",
+                "img_src": "https://deadbydaylight.wiki.gg/images/b/b7/IconAddon_youngCoconut.png?40c6a0",
                 "link": "/wiki/Young_Coconut",
                 "name": "Young Coconut",
                 "rarity": "common"
@@ -3635,8 +3635,8 @@
         "link": "/wiki/Houndmaster",
         "name": "Houndmaster",
         "power_imgs": [
-            "https://deadbydaylight.wiki.gg/images/9/9b/IconPowers_K38_dashCommand.png",
-            "https://deadbydaylight.wiki.gg/images/3/36/IconPowers_K38_patrolCommand.png"
+            "https://deadbydaylight.wiki.gg/images/9/9b/IconPowers_K38_dashCommand.png?67dcf3",
+            "https://deadbydaylight.wiki.gg/images/3/36/IconPowers_K38_patrolCommand.png?7f7003"
         ],
         "power_imgs_paths": [
             "data/images/powers/houndmaster/houndmaster_0.png",
@@ -4947,7 +4947,7 @@
                 "icon": "data/images/addons/nightmare/z-block_icon.png",
                 "img_alt": "Zblock.png",
                 "img_path": "data/images/addons/nightmare/z-block.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/d/d7/IconAddon_zBlock.png?7ac32e",
+                "img_src": "https://deadbydaylight.wiki.gg/images/d/d7/IconAddon_zBlock.png",
                 "link": "/wiki/%22Z%22_Block",
                 "name": "\"Z\" Block",
                 "rarity": "very-rare"
@@ -4957,7 +4957,7 @@
                 "icon": "data/images/addons/nightmare/black-box_icon.png",
                 "img_alt": "Blackbox.png",
                 "img_path": "data/images/addons/nightmare/black-box.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/4/49/IconAddon_blackBox.png?ac189c",
+                "img_src": "https://deadbydaylight.wiki.gg/images/4/49/IconAddon_blackBox.png",
                 "link": "/wiki/Black_Box",
                 "name": "Black Box",
                 "rarity": "ultra-rare"
@@ -4967,7 +4967,7 @@
                 "icon": "data/images/addons/nightmare/blue-dress_icon.png",
                 "img_alt": "Bluedress.png",
                 "img_path": "data/images/addons/nightmare/blue-dress.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/d/db/IconAddon_blueDress.png?8a02b7",
+                "img_src": "https://deadbydaylight.wiki.gg/images/d/db/IconAddon_blueDress.png",
                 "link": "/wiki/Blue_Dress",
                 "name": "Blue Dress",
                 "rarity": "rare"
@@ -4977,7 +4977,7 @@
                 "icon": "data/images/addons/nightmare/cat-block_icon.png",
                 "img_alt": "Catblock.png",
                 "img_path": "data/images/addons/nightmare/cat-block.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/1/1d/IconAddon_catBlock.png?f527a8",
+                "img_src": "https://deadbydaylight.wiki.gg/images/1/1d/IconAddon_catBlock.png",
                 "link": "/wiki/Cat_Block",
                 "name": "Cat Block",
                 "rarity": "uncommon"
@@ -4987,7 +4987,7 @@
                 "icon": "data/images/addons/nightmare/class-photo_icon.png",
                 "img_alt": "Classphoto.png",
                 "img_path": "data/images/addons/nightmare/class-photo.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/b/b0/IconAddon_classPhoto.png?2cde87",
+                "img_src": "https://deadbydaylight.wiki.gg/images/b/b0/IconAddon_classPhoto.png",
                 "link": "/wiki/Class_Photo",
                 "name": "Class Photo",
                 "rarity": "very-rare"
@@ -4997,7 +4997,7 @@
                 "icon": "data/images/addons/nightmare/garden-rake_icon.png",
                 "img_alt": "Gardenrake.png",
                 "img_path": "data/images/addons/nightmare/garden-rake.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/9/95/IconAddon_gardenRake.png?ec9456",
+                "img_src": "https://deadbydaylight.wiki.gg/images/9/95/IconAddon_gardenRake.png",
                 "link": "/wiki/Garden_Rake",
                 "name": "Garden Rake",
                 "rarity": "common"
@@ -5007,17 +5007,17 @@
                 "icon": "data/images/addons/nightmare/green-dress_icon.png",
                 "img_alt": "Greendress.png",
                 "img_path": "data/images/addons/nightmare/green-dress.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/2/2d/IconAddon_greenDress.png?5fdc38",
+                "img_src": "https://deadbydaylight.wiki.gg/images/2/2d/IconAddon_greenDress.png",
                 "link": "/wiki/Green_Dress",
                 "name": "Green Dress",
                 "rarity": "uncommon"
             },
             "Jump_Rope_(Dream_Demon)": {
-                "description": "A long Double-Dutch jump rope, stained with many years of use.\n<ul><li><b>Increases</b> the duration of the <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">-12\u00a0%</span></b> <i><b><a class=\"mw-redirect\" href=\"/wiki/Hindered\" title=\"Hindered\">Hindered</a></b></i><span class=\"iconLink debuff effect-wrapper scenario6\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 5s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_hindered.png\"><img alt=\"IconStatusEffects hindered.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_hindered.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effect</b> caused by <b>Dream Snares</b> by <b><span class=\"luaClr clr clr6\" style=\"color: #ff8800;\">+0.5 seconds</span></b> to <b><span class=\"luaClr clr clr8\" style=\"color: #d41c1c;\">5 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
+                "description": "A long Double-Dutch jump rope, stained with many years of use.\n<ul><li><b>Increases</b> the duration of the <b><span class=\"luaClr clr clr2\" style=\"color: #e8c252;\">-12\u00a0%</span></b> <i><b><a class=\"mw-redirect\" href=\"/wiki/Hindered\" title=\"Hindered\">Hindered</a></b></i><span class=\"iconLink debuff effect-wrapper\" style=\"--status-effect-main-size: 48px; --status-effect-duration: 5s;\"><span class=\"effect-tier effect-tier-1\"></span><span class=\"effect-icon\" style=\"scale: 0.57;\"><span class=\"getIconShrinker\" style=\"--imageShrinkerSize: 48px\"><a class=\"image\" href=\"/wiki/File:IconStatusEffects_hindered.png\"><img alt=\"IconStatusEffects hindered.png\" data-file-height=\"128\" data-file-width=\"128\" decoding=\"async\" height=\"96\" loading=\"lazy\" src=\"images/icons/96px-IconStatusEffects_hindered.png\" width=\"96\"/></a></span></span><span class=\"effect-foreground-wrapper\"><span class=\"effect-foreground\"></span></span><span class=\"effect-background\"></span></span> <b>Status Effect</b> caused by <b>Dream Snares</b> by <b><span class=\"luaClr clr clr6\" style=\"color: #ff8800;\">+0.5 seconds</span></b> to <b><span class=\"luaClr clr clr8\" style=\"color: #d41c1c;\">5 seconds</span></b>.</li></ul>\n<p><br/>\n</p>\n",
                 "icon": "data/images/addons/nightmare/jump-rope_icon.png",
                 "img_alt": "Jumpropedreamdemon.png",
                 "img_path": "data/images/addons/nightmare/jump-rope.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/d/d8/IconAddon_jumpRopeDreamDemon.png?3c3857",
+                "img_src": "https://deadbydaylight.wiki.gg/images/d/d8/IconAddon_jumpRopeDreamDemon.png",
                 "link": "/wiki/Jump_Rope_(Dream_Demon)",
                 "name": "Jump Rope",
                 "rarity": "rare"
@@ -5027,7 +5027,7 @@
                 "icon": "data/images/addons/nightmare/kids-drawing_icon.png",
                 "img_alt": "Kidsdrawing.png",
                 "img_path": "data/images/addons/nightmare/kids-drawing.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/d/d6/IconAddon_kidsDrawing.png?2a5128",
+                "img_src": "https://deadbydaylight.wiki.gg/images/d/d6/IconAddon_kidsDrawing.png",
                 "link": "/wiki/Kid%27s_Drawing",
                 "name": "Kid's Drawing",
                 "rarity": "common"
@@ -5037,7 +5037,7 @@
                 "icon": "data/images/addons/nightmare/nancys-masterpiece_icon.png",
                 "img_alt": "Nancysmasterpiece.png",
                 "img_path": "data/images/addons/nightmare/nancys-masterpiece.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/0/04/IconAddon_nancysMasterpiece.png?8668bb",
+                "img_src": "https://deadbydaylight.wiki.gg/images/0/04/IconAddon_nancysMasterpiece.png",
                 "link": "/wiki/Nancy%27s_Masterpiece",
                 "name": "Nancy's Masterpiece",
                 "rarity": "rare"
@@ -5047,7 +5047,7 @@
                 "icon": "data/images/addons/nightmare/nancys-sketch_icon.png",
                 "img_alt": "Nancyssketch.png",
                 "img_path": "data/images/addons/nightmare/nancys-sketch.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/e/eb/IconAddon_nancysSketch.png?6c238c",
+                "img_src": "https://deadbydaylight.wiki.gg/images/e/eb/IconAddon_nancysSketch.png",
                 "link": "/wiki/Nancy%27s_Sketch",
                 "name": "Nancy's Sketch",
                 "rarity": "uncommon"
@@ -5057,7 +5057,7 @@
                 "icon": "data/images/addons/nightmare/outdoor-rope_icon.png",
                 "img_alt": "Outdoorrope.png",
                 "img_path": "data/images/addons/nightmare/outdoor-rope.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/c/c0/IconAddon_outdoorRope.png?5cd9c6",
+                "img_src": "https://deadbydaylight.wiki.gg/images/c/c0/IconAddon_outdoorRope.png",
                 "link": "/wiki/Outdoor_Rope",
                 "name": "Outdoor Rope",
                 "rarity": "uncommon"
@@ -5067,7 +5067,7 @@
                 "icon": "data/images/addons/nightmare/paint-thinner_icon.png",
                 "img_alt": "Paintthinner.png",
                 "img_path": "data/images/addons/nightmare/paint-thinner.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/1/13/IconAddon_paintThinner.png?9bf8ad",
+                "img_src": "https://deadbydaylight.wiki.gg/images/1/13/IconAddon_paintThinner.png",
                 "link": "/wiki/Paint_Thinner",
                 "name": "Paint Thinner",
                 "rarity": "rare"
@@ -5077,7 +5077,7 @@
                 "icon": "data/images/addons/nightmare/pill-bottle_icon.png",
                 "img_alt": "Pillbottle.png",
                 "img_path": "data/images/addons/nightmare/pill-bottle.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/a/a1/IconAddon_pillBottle.png?ac17af",
+                "img_src": "https://deadbydaylight.wiki.gg/images/a/a1/IconAddon_pillBottle.png",
                 "link": "/wiki/Pill_Bottle",
                 "name": "Pill Bottle",
                 "rarity": "very-rare"
@@ -5087,7 +5087,7 @@
                 "icon": "data/images/addons/nightmare/prototype-claws_icon.png",
                 "img_alt": "Prototypeclaws.png",
                 "img_path": "data/images/addons/nightmare/prototype-claws.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/b/b9/IconAddon_prototypeClaws.png?4a61e9",
+                "img_src": "https://deadbydaylight.wiki.gg/images/b/b9/IconAddon_prototypeClaws.png",
                 "link": "/wiki/Prototype_Claws",
                 "name": "Prototype Claws",
                 "rarity": "uncommon"
@@ -5097,7 +5097,7 @@
                 "icon": "data/images/addons/nightmare/red-paint-brush_icon.png",
                 "img_alt": "Redpaintbrush.png",
                 "img_path": "data/images/addons/nightmare/red-paint-brush.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/5/5c/IconAddon_redPaintBrush.png?364a44",
+                "img_src": "https://deadbydaylight.wiki.gg/images/5/5c/IconAddon_redPaintBrush.png",
                 "link": "/wiki/Red_Paint_Brush",
                 "name": "Red Paint Brush",
                 "rarity": "ultra-rare"
@@ -5107,7 +5107,7 @@
                 "icon": "data/images/addons/nightmare/sheep-block_icon.png",
                 "img_alt": "Sheepblock.png",
                 "img_path": "data/images/addons/nightmare/sheep-block.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/9/92/IconAddon_sheepBlock.png?685941",
+                "img_src": "https://deadbydaylight.wiki.gg/images/9/92/IconAddon_sheepBlock.png",
                 "link": "/wiki/Sheep_Block",
                 "name": "Sheep Block",
                 "rarity": "common"
@@ -5117,7 +5117,7 @@
                 "icon": "data/images/addons/nightmare/swing-chains_icon.png",
                 "img_alt": "Swingchains.png",
                 "img_path": "data/images/addons/nightmare/swing-chains.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/c/cc/IconAddon_swingChains.png?65e17b",
+                "img_src": "https://deadbydaylight.wiki.gg/images/c/cc/IconAddon_swingChains.png",
                 "link": "/wiki/Swing_Chains",
                 "name": "Swing Chains",
                 "rarity": "very-rare"
@@ -5127,7 +5127,7 @@
                 "icon": "data/images/addons/nightmare/unicorn-block_icon.png",
                 "img_alt": "Unicornblock.png",
                 "img_path": "data/images/addons/nightmare/unicorn-block.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/f/f9/IconAddon_unicornBlock.png?2b0acb",
+                "img_src": "https://deadbydaylight.wiki.gg/images/f/f9/IconAddon_unicornBlock.png",
                 "link": "/wiki/Unicorn_Block",
                 "name": "Unicorn Block",
                 "rarity": "rare"
@@ -5137,7 +5137,7 @@
                 "icon": "data/images/addons/nightmare/wool-shirt_icon.png",
                 "img_alt": "Woolshirt.png",
                 "img_path": "data/images/addons/nightmare/wool-shirt.png",
-                "img_src": "https://deadbydaylight.wiki.gg/images/3/32/IconAddon_woolShirt.png?21dad5",
+                "img_src": "https://deadbydaylight.wiki.gg/images/3/32/IconAddon_woolShirt.png",
                 "link": "/wiki/Wool_Shirt",
                 "name": "Wool Shirt",
                 "rarity": "common"
@@ -5146,7 +5146,7 @@
         "link": "/wiki/Nightmare",
         "name": "Nightmare",
         "power_imgs": [
-            "https://deadbydaylight.wiki.gg/images/3/3a/IconPowers_dreamDemon.png?b3ac73"
+            "https://deadbydaylight.wiki.gg/images/3/3a/IconPowers_dreamDemon.png"
         ],
         "power_imgs_paths": [
             "data/images/powers/nightmare/nightmare_0.png"
