@@ -140,7 +140,7 @@
         "name": "Dominanz"
     },
     "Dragon's_Grip": {
-        "desc": "Nachdem du einen Generator besch\u00e4digt hast, gibt jeder \u00dcberlebende, der in den n\u00e4chsten <b><span style=\"color: #e8c252;\">30 Sekunden</span></b> damit interagiert, f\u00fcr <b><span style=\"color: #ff8800;\">4 Sekunden</span></b> seine Position bekannt, indem er schreit, und erleidet den Statuseffekt <b>Gef\u00e4hrdet</b> f\u00fcr <b><span style=\"color: #d41c1c;\">60 Sekunden</span></b>.\n<p><i>Drachengriff</i> hat eine Abklingzeit von <span style=\"color: #2CA533;\"><b>60</b></span>/<span style=\"color: #3D6CAD;\"><b>50</b></span>/<span style=\"color: #9342B7;\"><b>40</b></span>\u00a0Sekunden.\n</p><p><br/>\n<i><span style=\"color: #877E71;\">Gef\u00e4hrdete \u00dcberlebende werden von Grundangriffen niedergestreckt, auch wenn sie nicht verletzt sind.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eIn diesem Pr\u00e4parat steckt so viel Potenzial ... Selbst die kleinste Menge davon bewirkt \u00fcbernat\u00fcrliche Effekte.\u201c \u2013 Tagebuch von Talbot Grimes</span></i>\n</p>\n",
+        "desc": "Nachdem du einen Generator besch\u00e4digt hast, gibt jeder \u00dcberlebende, der in den n\u00e4chsten <b><span style=\"color: #e8c252;\">30 Sekunden</span></b> damit interagiert, f\u00fcr <b><span style=\"color: #ff8800;\">4 Sekunden</span></b> seine Position bekannt, indem er schreit, und erleidet den Statuseffekt <b>Gef\u00e4hrdet</b> f\u00fcr <b><span style=\"color: #d41c1c;\">60 Sekunden</span></b>.\n<p><i>Drachengriff</i> hat eine Abklingzeit von <span style=\"color: #2CA533;\"><b>60</b></span>/<span style=\"color: #3D6CAD;\"><b>45</b></span>/<span style=\"color: #9342B7;\"><b>30</b></span>\u00a0Sekunden.\n</p><p><br/>\n<i><span style=\"color: #877E71;\">Gef\u00e4hrdete \u00dcberlebende werden von Grundangriffen niedergestreckt, auch wenn sie nicht verletzt sind.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eIn diesem Pr\u00e4parat steckt so viel Potenzial ... Selbst die kleinste Menge davon bewirkt \u00fcbernat\u00fcrliche Effekte.\u201c \u2013 Tagebuch von Talbot Grimes</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Drachengriff",
         "name": "Drachengriff"
     },
@@ -170,7 +170,7 @@
         "name": "Erzwungene Bu\u00dfe"
     },
     "Franklin's_Demise": {
-        "desc": "Deine Grundangriffe lassen \u00dcberlebende bei einem Treffer ihren Gegenstand verlieren. Am Boden dauert es bis zu <span style=\"color: #2CA533;\"><b>150</b></span>/<span style=\"color: #3D6CAD;\"><b>120</b></span>/<span style=\"color: #9342B7;\"><b>90</b></span>\u00a0Sekunden, bis der Gegenstand <b>alle Einheiten verliert</b>, wenn er nicht aufgehoben wird.<br/>Gegenst\u00e4nde auf dem Boden innerhalb eines Radius von <b><span style=\"color: #ff8800;\">32 Metern</span></b>  werden durch eine wei\u00dfe Aura angezeigt.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eH\u00f6r auf! H\u00f6r auf!\u201c -Franklin</span></i>\n</p>\n",
+        "desc": "Deine Grundangriffe lassen \u00dcberlebende bei einem Treffer ihren Gegenstand verlieren.<br/><br/>Gegenst\u00e4nde auf dem Boden in einem Umkreis von <span style=\"color: #2CA533;\"><b>32</b></span>/<span style=\"color: #3D6CAD;\"><b>48</b></span>/<span style=\"color: #9342B7;\"><b>64</b></span>\u00a0Metern werden mit einer wei\u00dfen Aura angezeigt.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eSally, ich h\u00f6re da was! H\u00f6r auf. H\u00f6r auf!\u201c \u2013 Franklin</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Franklins_Niedergang",
         "name": "Franklins Niedergang"
     },
@@ -285,7 +285,7 @@
         "name": "Horter"
     },
     "Hubris": {
-        "desc": "Du kennst keine Gnade, schon gar nicht f\u00fcr die, die dumm genug sind, sich zu widersetzen.<br/>Immer wenn du von einem \u00dcberlebenden bet\u00e4ubt wirst, erleidet dieser \u00dcberlebende f\u00fcr <span style=\"color: #2CA533;\"><b>10</b></span>/<span style=\"color: #3D6CAD;\"><b>15</b></span>/<span style=\"color: #9342B7;\"><b>20</b></span>\u00a0Sekunden den Statuseffekt \u201eGef\u00e4hrdet\u201c .<br/><i>Hochmut</i> hat eine Abklingzeit von <b><span style=\"color: #e8c252;\">20 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #877E71;\">Gef\u00e4hrdete \u00dcberlebende werden von Grundangriffen niedergestreckt, auch wenn sie nicht verletzt sind.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eDu hast einen gro\u00dfen Fehler begangen, als du dich mir an diesem Tag widersetzt hast.\u201c \u2013 Tarhos Kov\u00e1cs</span></i>\n</p>\n",
+        "desc": "Du kennst keine Gnade, schon gar nicht f\u00fcr die, die dumm genug sind, sich zu widersetzen.<br/>Immer wenn du von einem \u00dcberlebenden bet\u00e4ubt wirst, erleidet dieser \u00dcberlebende f\u00fcr <span style=\"color: #2CA533;\"><b>20</b></span>/<span style=\"color: #3D6CAD;\"><b>25</b></span>/<span style=\"color: #9342B7;\"><b>30</b></span>\u00a0Sekunden den Statuseffekt \u201eGef\u00e4hrdet\u201c .<br/><i>Hochmut</i> hat eine Abklingzeit von <b><span style=\"color: #e8c252;\">20 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #877E71;\">Gef\u00e4hrdete \u00dcberlebende werden von Grundangriffen niedergestreckt, auch wenn sie nicht verletzt sind.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eDu hast einen gro\u00dfen Fehler begangen, als du dich mir an diesem Tag widersetzt hast.\u201c \u2013 Tarhos Kov\u00e1cs</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Hochmut",
         "name": "Hochmut"
     },
@@ -305,7 +305,7 @@
         "name": "Ansteckende Angst"
     },
     "Insidious": {
-        "desc": "Schaltet die Tarnf\u00e4higkeit frei.<br/>Wenn du <span style=\"color: #2CA533;\"><b>4</b></span>/<span style=\"color: #3D6CAD;\"><b>3</b></span>/<span style=\"color: #9342B7;\"><b>2</b></span>\u00a0Sekunden lang stillstehst, erh\u00e4ltst du den Statuseffekt <b>Unentdeckbar</b>, bis du dich wieder bewegst oder eine Aktion ausf\u00fchrst.\n<p><br/>\n<i><span style=\"color: #877E71;\">Unentdeckbar verbirgt Aura, Terrorradius und roten Fleck des Killers.</span></i><br/>\n</p>\n",
+        "desc": "Schaltet die Tarnf\u00e4higkeit frei.<br/>Wenn du <span style=\"color: #2CA533;\"><b>3</b></span>/<span style=\"color: #3D6CAD;\"><b>2</b></span>/<span style=\"color: #9342B7;\"><b>1</b></span>\u00a0Sekunden lang stillstehst, erh\u00e4ltst du den Statuseffekt <b>Unentdeckbar</b>, bis du dich wieder bewegst oder eine Aktion ausf\u00fchrst.\n<p><br/>\n<i><span style=\"color: #877E71;\">Unentdeckbar verbirgt Aura, Terrorradius und roten Fleck des Killers.</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Heimt%C3%BCckisch",
         "name": "Heimt\u00fcckisch"
     },
@@ -395,7 +395,7 @@
         "name": "\u00dcberladen"
     },
     "Overwhelming_Presence": {
-        "desc": "Allein mit deiner Gegenwart l\u00f6st du bei anderen Grauen aus. \u00dcberlebende in deinem Terrorradius sind ineffizient.\n<p>Die Verbrauchsraten der Gegenst\u00e4nde betroffener \u00dcberlebender sind um <span style=\"color: #2CA533;\"><b>80</b></span>/<span style=\"color: #3D6CAD;\"><b>90</b></span>/<span style=\"color: #9342B7;\"><b>100</b></span>\u00a0% erh\u00f6ht.\n</p><p><br/>\n<i><span style=\"color: #646464;\">\u201eMist! Ich habe den Verband verloren!\u201c</span></i>\n</p>\n",
+        "desc": "Schon allein das Wissen um deine Anwesenheit verst\u00f6rt deine Opfer.<br/><br/>Wenn ein \u00dcberlebender in einem Umkreis von <b><span style=\"color: #9342B7;\">32 Metern</span></b> einen Gegenstand verwendet, erh\u00e4lt er f\u00fcr <b><span style=\"color: #e8c252;\">15 Sekunden</span></b> \u201eErsch\u00f6pfung\u201c.<br/><br/>Wenn ein \u00dcberlebender in einem Umkreis von <b><span style=\"color: #e8c252;\">32 Metern</span></b> \u201eErsch\u00f6pfung\u201c erleidet, siehst du die Aura des n\u00e4chsten \u00dcberlebenden mit Ersch\u00f6pfung f\u00fcr  <span style=\"color: #2CA533;\"><b>2</b></span>/<span style=\"color: #3D6CAD;\"><b>3</b></span>/<span style=\"color: #9342B7;\"><b>4</b></span>\u00a0Sekunden<br/><br/>Dieses Talent hat eine Abklingzeit von <b><span style=\"color: #d41c1c;\">25 Sekunden</span></b>\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eMist! Ich habe den Verband verloren!\u201c</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Erdr%C3%BCckende_Pr%C3%A4senz",
         "name": "Erdr\u00fcckende Pr\u00e4senz"
     },
@@ -440,7 +440,7 @@
         "name": "Gei\u00dfelhaken: Fluten des Zorns"
     },
     "Scourge_Hook:_Hangman's_Trick": {
-        "desc": "Deine genialen Modifikationen der Haken alarmieren dich, wenn jemand versucht, sie zu manipulieren.<br/><li>Du erh\u00e4ltst eine Benachrichtigung, wenn ein \u00dcberlebender beginnt, einen Haken zu sabotieren.</li><li>W\u00e4hrend du einen \u00dcberlebenden tr\u00e4gst, kannst du die Aura aller \u00dcberlebenden innerhalb eines Radius von <span style=\"color: #2CA533;\"><b>8</b></span>/<span style=\"color: #3D6CAD;\"><b>9</b></span>/<span style=\"color: #9342B7;\"><b>10</b></span>\u00a0Metern um einen Gei\u00dfelhaken sehen.</li>\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eKeine Ausreden, keine Ausfl\u00fcchte ... Kein Heulen.\u201c -Amanda Young</span></i>\n</p>\n",
+        "desc": "Deine genialen Modifikationen der Haken alarmieren dich, wenn jemand versucht, sie zu manipulieren.<br/><li>Du erh\u00e4ltst eine Benachrichtigung, wenn ein \u00dcberlebender beginnt, einen Haken zu sabotieren.</li><li>W\u00e4hrend du einen \u00dcberlebenden tr\u00e4gst, kannst du die Aura aller \u00dcberlebenden innerhalb eines Radius von <span style=\"color: #2CA533;\"><b>12</b></span>/<span style=\"color: #3D6CAD;\"><b>14</b></span>/<span style=\"color: #9342B7;\"><b>16</b></span>\u00a0Metern um einen Gei\u00dfelhaken sehen.</li>\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eKeine Ausreden, keine Ausfl\u00fcchte ... Kein Heulen.\u201c -Amanda Young</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Henkerstreich",
         "name": "Gei\u00dfelhaken: Henkerstreich"
     },
