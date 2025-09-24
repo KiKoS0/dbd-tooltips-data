@@ -1,6 +1,6 @@
 {
     "A_Nurse's_Calling": {
-        "desc": "Schaltet Potential in der eigenen Aura-Lesef\u00e4higkeit frei. Die Auren von \u00dcberlebenden, die heilen oder geheilt werden, werden dir angezeigt, wenn sie sich in <span style=\"color: #2CA533;\"><b>20</b></span>/<span style=\"color: #3D6CAD;\"><b>24</b></span>/<span style=\"color: #9342B7;\"><b>28</b></span>\u00a0Metern Umkreis befinden.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eNoch immer an die Fragmente ihres vergangenen Lebens geheftet, zieht es sie zu jenen, die Hilfe brauchen.\u201c</span></i>\n</p>\n",
+        "desc": "Entfesselt das Potenzial der Aurawahrnehmungsf\u00e4higkeit. Die Auren von verletzten \u00dcberlebenden, die heilen oder geheilt werden, werden dir angezeigt, wenn sie sich in einem Umkreis von <span style=\"color: #2CA533;\"><b>28</b></span>/<span style=\"color: #3D6CAD;\"><b>30</b></span>/<span style=\"color: #9342B7;\"><b>32</b></span>\u00a0Metern befinden.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eNoch immer an die Fragmente ihres vergangenen Lebens geheftet, zieht es sie zu jenen, die Hilfe brauchen.\u201c</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Der_Ruf_einer_Krankenschwester",
         "name": "Der Ruf einer Krankenschwester"
     },
@@ -15,7 +15,7 @@
         "name": "Alieninstinkt"
     },
     "All-Shaking_Thunder": {
-        "desc": "Gegner an Land und auf See haben gelernt, vor deiner Macht zu erzittern.<br/><br/>Wenn du aus einer gewissen H\u00f6he gefallen bist, wird die Reichweite deines Sprungangriffs f\u00fcr <span style=\"color: #2CA533;\"><b>8</b></span>/<span style=\"color: #3D6CAD;\"><b>12</b></span>/<span style=\"color: #9342B7;\"><b>16</b></span>\u00a0Sekunden um <b><span style=\"color: #e8c252;\">75\u00a0%</span></b> vergr\u00f6\u00dfert.<br/><br/>Dieses Talent hat eine Abklingzeit von <b><span style=\"color: #e8c252;\">5 Sekunden</span></b>.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eNa los. Lauf. Sag deinen Freunden, dass ich sie mir hole.\u201c \u2013 Portia Maye</span></i>\n</p>\n",
+        "desc": "\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Alles_ersch%C3%BCtternder_Donner",
         "name": "Alles ersch\u00fctternder Donner"
     },
@@ -90,7 +90,7 @@
         "name": "Gnadensto\u00df"
     },
     "Dark_Arrogance": {
-        "desc": "Wenn alles nach Plan l\u00e4uft, bist du unvermeidlich und unentrinnbar.<br/><br/>Verl\u00e4ngert die Dauer, f\u00fcr die du geblendet bist, und die Dauer von Paletten-Bet\u00e4ubungen um <b><span style=\"color: #e8c252;\">25\u00a0%</span></b>.<br/><br/>Erh\u00f6ht die gew\u00f6hnliche Sprunggeschwindigkeit um <span style=\"color: #2CA533;\"><b>15</b></span>/<span style=\"color: #3D6CAD;\"><b>20</b></span>/<span style=\"color: #9342B7;\"><b>25</b></span>\u00a0%.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eLauf nur, so viel du willst. Du kannst dich mir nicht verwehren.\u201c\u00a0\u2013 Vecna</span></i>\n</p>\n",
+        "desc": "Wenn alles nach Plan l\u00e4uft, bist du unvermeidlich und unentrinnbar.<br/><br/>Verl\u00e4ngert die Dauer, f\u00fcr die du geblendet bist, und die Dauer von Paletten-Bet\u00e4ubungen um <b><span style=\"color: #e8c252;\">15\u00a0%</span></b>.<br/><br/>Erh\u00f6ht die gew\u00f6hnliche Sprunggeschwindigkeit um <span style=\"color: #2CA533;\"><b>15</b></span>/<span style=\"color: #3D6CAD;\"><b>20</b></span>/<span style=\"color: #9342B7;\"><b>25</b></span>\u00a0%.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eLauf nur, so viel du willst. Du kannst dich mir nicht verwehren.\u201c\u00a0\u2013 Vecna</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/D%C3%BCstere_Arroganz",
         "name": "D\u00fcstere Arroganz"
     },
@@ -105,7 +105,7 @@
         "name": "Enth\u00fcllte Dunkelheit"
     },
     "Dead_Man's_Switch": {
-        "desc": "Wenn du einen \u00dcberlebenden festhakst, wird <i>Totenschalter</i> aktiviert. Wenn der erste \u00dcberlebende mit der Reparatur eines Generators aufh\u00f6rt, blockiert der Entitus diesen f\u00fcr <span style=\"color: #2CA533;\"><b>40</b></span>/<span style=\"color: #3D6CAD;\"><b>45</b></span>/<span style=\"color: #9342B7;\"><b>50</b></span>\u00a0Sekunden.<br/><br/>Der betroffene Generator wird durch eine wei\u00dfe Aura hervorgehoben.<br/><br/><i>Totenschalter</i> kann nicht erneut aktiviert werden, solange ein Generator dadurch blockiert wird.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eIch kenne den Gesichtsausdruck von Menschen, die begreifen, dass sie sterben werden.\" -Caleb Quinn</span></i>\n</p>\n",
+        "desc": "Wenn du einen \u00dcberlebenden festhakst, wird <i>Totenschalter</i> aktiviert. Wenn der erste \u00dcberlebende mit der Reparatur eines Generators aufh\u00f6rt, blockiert der Entitus diesen f\u00fcr <span style=\"color: #2CA533;\"><b>25</b></span>/<span style=\"color: #3D6CAD;\"><b>30</b></span>/<span style=\"color: #9342B7;\"><b>35</b></span>\u00a0Sekunden.<br/><br/>Der betroffene Generator wird durch eine wei\u00dfe Aura hervorgehoben.<br/><br/><i>Totenschalter</i> kann nicht erneut aktiviert werden, solange ein Generator dadurch blockiert wird.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eIch kenne den Gesichtsausdruck von Menschen, die begreifen, dass sie sterben werden.\" -Caleb Quinn</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Totenschalter",
         "name": "Totenschalter"
     },
@@ -115,7 +115,7 @@
         "name": "Todgeweiht"
     },
     "Deerstalker": {
-        "desc": "Entfesselt das Potenzial der Aurawahrnehmungsf\u00e4higkeit. Zeigt die Auren von sterbenden \u00dcberlebenden an, wenn du im Umkreis von <span style=\"color: #2CA533;\"><b>20</b></span>/<span style=\"color: #3D6CAD;\"><b>28</b></span>/<span style=\"color: #9342B7;\"><b>36</b></span>\u00a0Metern stehst.\n",
+        "desc": "Solange ein \u00dcberlebender deine Aura sieht, siehst du auch seine.<br/><br/>Alle <span style=\"color: #2CA533;\"><b>40</b></span>/<span style=\"color: #3D6CAD;\"><b>35</b></span>/<span style=\"color: #9342B7;\"><b>30</b></span>\u00a0Sekunden zeigst du dem \u00dcberlebenden mit der k\u00fcrzesten Jagddauer <b><span style=\"color: #e8c252;\">3 Sekunden</span></b> lang deine Aura.\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Pirscher",
         "name": "Pirscher"
     },
@@ -250,7 +250,7 @@
         "name": "Fluch: Vergeltung"
     },
     "Hex:_Ruin": {
-        "desc": "Ein Fluch, der sich auf den Reparaturfortschritt aller Generatoren auswirkt.<br/>Alle Generatoren sind von <i>Fluch: Ruin</i> betroffen. Wird ein Generator nicht von einem \u00dcberlebenden repariert, beginnt sofort und automatisch ein Reparatur-R\u00fcckgang mit <span style=\"color: #2CA533;\"><b>50</b></span>/<span style=\"color: #3D6CAD;\"><b>75</b></span>/<span style=\"color: #9342B7;\"><b>100</b></span>\u00a0% der normalen R\u00fcckgangsgeschwindigkeit.<br/><i>Die Flucheffekte dauern an, solange das entsprechende Fluchtotem besteht.</i>\n<p><i><span style=\"color: #646464;\">\u201eAuf dir liegt ein Fluch, der wird dich ruinieren.\u201c</span></i>\n</p>\n",
+        "desc": "Ein Fluch, der sich auf den Reparaturfortschritt aller Generatoren auswirkt.<br/>Alle Generatoren sind von <i>Fluch: Ruin</i> betroffen. Wird ein Generator nicht von einem \u00dcberlebenden repariert, beginnt sofort und automatisch ein Reparatur-R\u00fcckgang mit <span style=\"color: #2CA533;\"><b>100</b></span>/<span style=\"color: #3D6CAD;\"><b>125</b></span>/<span style=\"color: #9342B7;\"><b>150</b></span>\u00a0% der normalen R\u00fcckgangsgeschwindigkeit.<br/><i>Die Flucheffekte dauern an, solange das entsprechende Fluchtotem besteht.</i>\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eAuf dir liegt ein Fluch, der wird dich ruinieren.\u201c</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Fluch:_Ruin",
         "name": "Fluch: Ruin"
     },
@@ -320,7 +320,7 @@
         "name": "Eiserne Jungfrau"
     },
     "Knock_Out": {
-        "desc": "Das Trauma, das deine brutalen Angriffe verursachen, macht Hilfeschreie qualvoll und schwierig.<br/><li>Wenn ein \u00dcberlebender eine Palette umst\u00f6\u00dft und sich innerhalb von <b><span style=\"color: #e8c252;\">6 Sekunden</span></b> <b><span style=\"color: #9342B7;\">6 Meter</span></b> davon entfernt, erh\u00e4lt er <b><span style=\"color: #d41c1c;\">5\u00a0%</span></b> <b>Eingeschr\u00e4nkt</b> f\u00fcr <span style=\"color: #2CA533;\"><b>3</b></span>/<span style=\"color: #3D6CAD;\"><b>4</b></span>/<span style=\"color: #9342B7;\"><b>5</b></span>\u00a0Meter.</li>\n<p><br/>\n<i><span style=\"color: #877E71;\">Eingeschr\u00e4nkt verringert die Bewegungsgeschwindigkeit von \u00dcberlebenden.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eOh, eine Pistole ist nicht gut. Die gute alte Art ... mit einem Vorschlaghammer! Siehst du, so ist es besser. So sterben sie besser.\u201c -Nubbins Sawyer</span></i>\n</p>\n",
+        "desc": "Das Trauma, das deine brutalen Angriffe verursachen, macht Hilfeschreie qualvoll und schwierig.<br/><li>Wenn ein \u00dcberlebender eine Palette umst\u00f6\u00dft und sich innerhalb von <b><span style=\"color: #e8c252;\">6 Sekunden</span></b> <b><span style=\"color: #9342B7;\">6 Meter</span></b> davon entfernt, erh\u00e4lt er <b><span style=\"color: #d41c1c;\">5\u00a0%</span></b> <b>Eingeschr\u00e4nkt</b> f\u00fcr <span style=\"color: #2CA533;\"><b>3</b></span>/<span style=\"color: #3D6CAD;\"><b>4</b></span>/<span style=\"color: #9342B7;\"><b>5</b></span>\u00a0Sekunden.</li>\n<p><br/>\n<i><span style=\"color: #877E71;\">Eingeschr\u00e4nkt verringert die Bewegungsgeschwindigkeit von \u00dcberlebenden.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eOh, eine Pistole ist nicht gut. Die gute alte Art ... mit einem Vorschlaghammer! Siehst du, so ist es besser. So sterben sie besser.\u201c -Nubbins Sawyer</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/K._o.",
         "name": "K. o."
     },
@@ -330,7 +330,7 @@
         "name": "L\u00e4hmende Ber\u00fchrung"
     },
     "Leverage": {
-        "desc": "Tritt deine Gegner, wenn sie am Boden liegen. Wenn sie den Halt verloren haben, d\u00fcrfen sie ihn nicht zur\u00fcckgewinnen.<br/><br/>Wenn ein \u00dcberlebender einen anderen vom Haken befreit, wird seine Heilungsgeschwindigkeit f\u00fcr <b><span style=\"color: #9342B7;\">30 Sekunden</span></b> um <span style=\"color: #2CA533;\"><b>30</b></span>/<span style=\"color: #3D6CAD;\"><b>40</b></span>/<span style=\"color: #9342B7;\"><b>50</b></span>\u00a0% verringert.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eGut. Jetzt wird es Zeit zu t\u00f6ten.\u201c \u2013 Adriana Imai</span></i>\n</p>\n",
+        "desc": "Tritt deine Gegner, wenn sie am Boden liegen. Wenn sie den Halt verloren haben, d\u00fcrfen sie ihn nicht zur\u00fcckgewinnen.<br/><br/>Wenn ein \u00dcberlebender einen anderen vom Haken befreit, wird seine Heilungsgeschwindigkeit f\u00fcr <b><span style=\"color: #9342B7;\">60 Sekunden</span></b> um <span style=\"color: #2CA533;\"><b>20</b></span>/<span style=\"color: #3D6CAD;\"><b>25</b></span>/<span style=\"color: #9342B7;\"><b>30</b></span>\u00a0% verringert.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eGut. Jetzt wird es Zeit zu t\u00f6ten.\u201c \u2013 Adriana Imai</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Hebelwirkung",
         "name": "Hebelwirkung"
     },
@@ -360,7 +360,7 @@
         "name": "Erbarmungsloser Sturm"
     },
     "Monitor_&_Abuse": {
-        "desc": "Deine Planung ist pr\u00e4zise, deine Ausf\u00fchrung furchterregend.<br/><br/>W\u00e4hrend einer Jagd wird dein Terrorradius um <span style=\"color: #2CA533;\"><b>6</b></span>/<span style=\"color: #3D6CAD;\"><b>7</b></span>/<span style=\"color: #9342B7;\"><b>8</b></span>\u00a0Meter vergr\u00f6\u00dfert. Andernfalls wird dein Terrorradius um <span style=\"color: #2CA533;\"><b>12</b></span>/<span style=\"color: #3D6CAD;\"><b>14</b></span>/<span style=\"color: #9342B7;\"><b>16</b></span>\u00a0Meter verkleinert.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eEs ist Zeit f\u00fcr Ihre Behandlung!\u201c -Der Doktor</span></i>\n</p>\n",
+        "desc": "Deine Planung ist pr\u00e4zise, deine Ausf\u00fchrung furchterregend.<br/><br/>W\u00e4hrend einer Jagd wird dein Terrorradius um <span style=\"color: #2CA533;\"><b>5</b></span>/<span style=\"color: #3D6CAD;\"><b>10</b></span>/<span style=\"color: #9342B7;\"><b>15</b></span>\u00a0% vergr\u00f6\u00dfert. Andernfalls wird dein Terrorradius um <span style=\"color: #2CA533;\"><b>15</b></span>/<span style=\"color: #3D6CAD;\"><b>20</b></span>/<span style=\"color: #9342B7;\"><b>25</b></span>\u00a0% verkleinert.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eEs ist Zeit f\u00fcr Ihre Behandlung!\u201c -Der Doktor</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Beobachten_und_Zuschlagen",
         "name": "Beobachten und Zuschlagen"
     },
@@ -385,7 +385,7 @@
         "name": "Keine Versteckm\u00f6glichkeit"
     },
     "Oppression": {
-        "desc": "Du hattest ein schwieriges Leben, deshalb machst du es anderen jetzt auch schwer.<br/><br/>Wenn du einen Generator besch\u00e4digst, st\u00f6rst du den Fortschritt von <b><span style=\"color: #e8c252;\">3</span></b> weiteren, willk\u00fcrlich ausgew\u00e4hlten Generatoren.<br/><br/>Wird einer der betroffenen Generatoren repariert, l\u00f6st du einen F\u00e4higkeitscheck f\u00fcr die \u00dcberlebenden aus, die ihn reparieren.<br/><br/><i>Unterdr\u00fcckung</i> hat eine Abklingzeit von <span style=\"color: #2CA533;\"><b>60</b></span>/<span style=\"color: #3D6CAD;\"><b>50</b></span>/<span style=\"color: #9342B7;\"><b>49</b></span> Sekunden.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eVerdamme sie, wie sie uns verdammen.\u201c \u2013 Charlotte Deshayes</span></i>\n</p>\n",
+        "desc": "Du hattest ein schwieriges Leben, deshalb machst du es anderen jetzt auch schwer.<br/><br/>Wenn du einen Generator besch\u00e4digst, st\u00f6rst du den Fortschritt von <b><span style=\"color: #e8c252;\">4</span></b> weiteren, willk\u00fcrlich ausgew\u00e4hlten Generatoren.<br/><br/>Wird einer der betroffenen Generatoren repariert, l\u00f6st du einen F\u00e4higkeitscheck f\u00fcr die \u00dcberlebenden aus, die ihn reparieren.<br/><br/><i>Unterdr\u00fcckung</i> hat eine Abklingzeit von <span style=\"color: #2CA533;\"><b>45</b></span>/<span style=\"color: #3D6CAD;\"><b>40</b></span>/<span style=\"color: #9342B7;\"><b>35</b></span> Sekunden.\n<p><br/>\n<i><span style=\"color: #646464;\">\u201eVerdamme sie, wie sie uns verdammen.\u201c \u2013 Charlotte Deshayes</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Unterdr%C3%BCckung",
         "name": "Unterdr\u00fcckung"
     },
@@ -460,7 +460,7 @@
         "name": "Gei\u00dfelhaken: Schmerzensecho"
     },
     "Septic_Touch": {
-        "desc": "Das Land der Schatten umfasst alles. Eine Heilung schiebt das Unvermeidliche nur auf.<br/>Immer wenn ein \u00dcberlebender eine Heilaktion innerhalb deines Terrorradius durchf\u00fchrt, erleidet dieser \u00dcberlebende <b>Erblindung</b> und <b>Ersch\u00f6pfung</b>.<br/>Diese Effekte halten <span style=\"color: #2CA533;\"><b>6</b></span>/<span style=\"color: #3D6CAD;\"><b>7</b></span>/<span style=\"color: #9342B7;\"><b>8</b></span>\u00a0Sekunden an, nachdem eine Heilung auf beliebige Art unterbrochen wurde.\n<p><br/>\n<i><span style=\"color: #877E71;\">Bei Erblindung k\u00f6nnen \u00dcberlebende keine Auren sehen.</span></i><br/>\n<i><span style=\"color: #877E71;\">Ersch\u00f6pfung hindert \u00dcberlebende daran, ersch\u00f6pfende Talente zu nutzen.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eGebt der Furcht, dem Schmerz oder dem Zweifel nicht nach. Dies sind die Samen, aus denen die Dunkelheit w\u00e4chst.\u201c \u2013 Otto Stamper</span></i>\n</p>\n",
+        "desc": "Das Land der Schatten umfasst alles. Eine Heilung schiebt das Unvermeidliche nur auf.<br/>Immer wenn ein \u00dcberlebender eine Heilaktion innerhalb deines Terrorradius durchf\u00fchrt, erleidet dieser \u00dcberlebende <b>Erblindung</b> und <b>Ersch\u00f6pfung</b>.<br/>Diese Effekte halten <span style=\"color: #2CA533;\"><b>20</b></span>/<span style=\"color: #3D6CAD;\"><b>25</b></span>/<span style=\"color: #9342B7;\"><b>30</b></span>\u00a0Sekunden an, nachdem eine Heilung auf beliebige Art unterbrochen wurde.\n<p><br/>\n<i><span style=\"color: #877E71;\">Bei Erblindung k\u00f6nnen \u00dcberlebende keine Auren sehen.</span></i><br/>\n<i><span style=\"color: #877E71;\">Ersch\u00f6pfung hindert \u00dcberlebende daran, ersch\u00f6pfende Talente zu nutzen.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eGebt der Furcht, dem Schmerz oder dem Zweifel nicht nach. Dies sind die Samen, aus denen die Dunkelheit w\u00e4chst.\u201c \u2013 Otto Stamper</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Septische_Ber%C3%BChrung",
         "name": "Septische Ber\u00fchrung"
     },
@@ -545,7 +545,7 @@
         "name": "Pfad der Folter"
     },
     "Ultimate_Weapon": {
-        "desc": "Wenn sie dich sehen, wissen sie, dass das Ende nah ist.<br/><br/>\u00dcberlebende in einem Umkreis von <b><span style=\"color: #ff8800;\">32 Metern</span></b> schreien und enth\u00fcllen ihren Aufenthaltsort und leiden <b><span style=\"color: #d41c1c;\">30 Sekunden</span></b> lang unter <b>Erblindung</b>.<br/><br/>Dieses Talent hat eine Abklingzeit von <span style=\"color: #2CA533;\"><b>80</b></span>/<span style=\"color: #3D6CAD;\"><b>70</b></span>/<span style=\"color: #9342B7;\"><b>60</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #877E71;\">Bei Erblindung k\u00f6nnen \u00dcberlebende keine Auren sehen.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eIch kann Ihnen nichts vormachen, was Ihre Chancen angeht. Aber: Sie haben mein Mitgef\u00fchl.\u201c \u2013 Ash</span></i>\n</p>\n",
+        "desc": "Wenn sie dich sehen, wissen sie, dass das Ende nah ist.<br/><br/>\u00dcberlebende in einem Umkreis von <b><span style=\"color: #ff8800;\">40 Metern</span></b> schreien und enth\u00fcllen ihren Aufenthaltsort und leiden <b><span style=\"color: #d41c1c;\">30 Sekunden</span></b> lang unter <b>Erblindung</b>.<br/><br/>Dieses Talent hat eine Abklingzeit von <span style=\"color: #2CA533;\"><b>55</b></span>/<span style=\"color: #3D6CAD;\"><b>50</b></span>/<span style=\"color: #9342B7;\"><b>45</b></span>\u00a0Sekunden.\n<p><br/>\n<i><span style=\"color: #877E71;\">Bei Erblindung k\u00f6nnen \u00dcberlebende keine Auren sehen.</span></i><br/>\n<i><span style=\"color: #646464;\">\u201eIch kann Ihnen nichts vormachen, was Ihre Chancen angeht. Aber: Sie haben mein Mitgef\u00fchl.\u201c \u2013 Ash</span></i>\n</p>\n",
         "link": "https://deadbydaylight.wiki.gg/de/wiki/Ultimative_Waffe",
         "name": "Ultimative Waffe"
     },
