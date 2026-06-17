@@ -1,4 +1,3 @@
 {
-    "disable-bugged-video-in-firefox": false,
-    "enable-analytics": true
+    "disable-bugged-video-in-firefox": false
 }
